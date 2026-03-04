@@ -73,17 +73,25 @@ export class GroeaseAPI {
       platforms,
     };
 
+    console.log(`[GroeaseAPI] Sending search POST to ${url}`);
+    console.log(`[GroeaseAPI] Payload:`, JSON.stringify(payload, null, 2));
+
     const response = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload),
     });
 
+    console.log(`[GroeaseAPI] Received response status: ${response.status} ${response.statusText}`);
+
     if (!response.ok) {
+      const errText = await response.text();
+      console.error(`[GroeaseAPI] API Error details:`, errText);
       throw new Error(`API request failed: ${response.statusText}`);
     }
 
     const data = await response.json();
+    console.log(`[GroeaseAPI] Successfully parsed JSON. Received ${data.products?.length || 0} products.`);
     return data.products || [];
   }
 }

@@ -1,944 +1,659 @@
 {
-  "search_query": "Atta",
-  "timestamp": "2026-02-23T22:01:45.361617",
-  "total_products": 145,
-  "matched_products": 3,
+  "search_query": "Milk",
+  "timestamp": "2026-03-04T09:21:45.452574",
+  "total_products": 138,
+  "matched_products": 16,
   "location": {
-    "address": "Mumbai, Maharashtra",
-    "city": "Mumbai",
-    "state": "Maharashtra",
+    "address": "Jaipur, Rajasthan",
+    "city": "Jaipur",
+    "state": "Rajasthan",
     "country": "India",
     "coordinates": {
-      "lat": 19.054999,
-      "lng": 72.8692035
+      "lat": 26.96902831984057,
+      "lng": 75.77756522171647
     }
   },
   "products": [
     {
-      "name": "Aashirvaad Chakki Mp Sehori Atta Gahu Lot Gahu Peeth",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52166f0a-e96e-47d7-b147-8b7f6083f127.png",
+      "name": "Saras Toned Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/adebcc0a-e373-4bc5-aa6f-e504d9d2014b.png",
       "original_names": {
-        "blinkit": "Aashirvaad Chakki MP Sehori Atta, Gahu Lot/ Gahu Peeth"
+        "blinkit": "Saras Toned Milk",
+        "zepto": "Saras Toned Fresh Milk | Pouch"
       },
       "platforms": {
         "blinkit": {
-          "price": 279,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-chakki-mp-sehori-atta-gahu-lot-gahu-peeth/prid/580836"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Organic Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b9bb083d-b44f-42a7-922c-39abd37a446c.png",
-      "original_names": {
-        "blinkit": "Aashirvaad Organic Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 316,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-organic-atta/prid/436305"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Fortune Chakki Fresh Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1769779424274-262.png",
-      "original_names": {
-        "blinkit": "Fortune Chakki Fresh (100% Atta, 0% Maida) Atta (10 kg)"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 424,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/fortune-chakki-fresh-100-atta-0-maida-atta-10-kg/prid/380157"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Whole Farm Chakki Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/63708712-d1dd-4676-9da1-8ad476fe29ac.png",
-      "original_names": {
-        "blinkit": "Whole Farm Chakki Atta (100% Atta, 0% Maida)"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 400,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/whole-farm-chakki-atta-100-atta-0-maida/prid/514892"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Chakki Premium Mp Sehori Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/473af2cd-9aa6-4ef2-97f8-f2e0a42e38b1.png",
-      "original_names": {
-        "blinkit": "Aashirvaad Chakki Premium MP Sehori Atta",
-        "bigbasket": "Aashirvaad Chakki Premium MP Sehori Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 379,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-chakki-premium-mp-sehori-atta/prid/580837"
+          "price": 27,
+          "quantity": "500 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/saras-toned-milk/prid/46258"
         },
-        "bigbasket": {
-          "price": 405,
-          "quantity": "5 kg",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40333893/aashirvaad-chakki-premium-mp-sehori-attagahu-lotgahu-peeth-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=19&t_s=Chakki+Premium+MP+Sehori+Atta"
+        "zepto": {
+          "price": 27,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/saras-toned-fresh-milk-pouch/pvid/7d3e9d75-a6d5-4670-be1e-3d7c2a5871c1"
         }
       },
-      "similarity_score": 0.8666666666666667
+      "similarity_score": 0.8052631578947368
     },
     {
-      "name": "Aashirvaad High Fibre Atta Multigrains",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/99c07f65-9c5b-4fc4-927b-7be3f2bea854.png",
+      "name": "Saras Gold Full Cream Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/016db06e-1840-4069-b9b4-dec66e8ba4c9.png",
       "original_names": {
-        "blinkit": "Aashirvaad High Fibre Atta with Multigrains - 10 kg"
+        "blinkit": "Saras Gold Full Cream Milk",
+        "zepto": "Saras Gold Full Cream Fresh Milk | Pouch"
       },
       "platforms": {
         "blinkit": {
-          "price": 635,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-high-fibre-atta-with-multigrains-10-kg/prid/200521"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Superior Mp Atta L Kg",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f76cdc7d-828a-4036-b119-fdea66b9156b.png",
-      "original_names": {
-        "blinkit": "Aashirvaad Superior MP Atta - l kg"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 62,
-          "quantity": "1 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-superior-mp-atta-l-kg/prid/68482"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Select 100 Mp Sharbati Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c2ccf85e-bf1c-4786-99b0-aee6ff00e7e0.png",
-      "original_names": {
-        "blinkit": "Aashirvaad Select 100% MP Sharbati Atta",
-        "bigbasket": "Aashirvaad Select MP Sharbati Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 322,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-select-100-mp-sharbati-atta/prid/7"
-        },
-        "bigbasket": {
-          "price": 687.6,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40236231/aashirvaad-select-sharbati-atta-100-mp-whole-wheat-rotis-stay-softer-for-longer-10-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=2&t_s=Select+MP+Sharbati+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Better Nutrition Wheat Atta 2X Nutrition",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/rc-upload-1770788511345-902.png",
-      "original_names": {
-        "blinkit": "Better Nutrition Wheat Atta – 2X Nutrition"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 153,
-          "quantity": "2 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/better-nutrition-wheat-atta-2x-nutrition/prid/596996"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Silver Coin Traditional Chakki Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/af2537af-8706-41e2-88f0-34f8787f2e49.png",
-      "original_names": {
-        "blinkit": "Silver Coin Traditional Chakki Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 214,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/silver-coin-traditional-chakki-atta/prid/174379"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Premium Blend Chakki Lokwan Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3f4ebc8f-8b8a-47fc-8d2e-21db4db9f78b.png",
-      "original_names": {
-        "blinkit": "Aashirvaad Premium Blend Chakki Lokwan Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 309,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-premium-blend-chakki-lokwan-atta/prid/611872"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Samrat Premium Fresh Chakki Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1ce45cec-b5b4-43d2-8c49-9cd54cdfcb57.png",
-      "original_names": {
-        "blinkit": "Samrat Premium Fresh Chakki Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 218,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/samrat-premium-fresh-chakki-atta/prid/230656"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Superior Mp Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/74371e5a-f158-4aaa-b02e-304b296ca182.png",
-      "original_names": {
-        "blinkit": "Aashirvaad Superior MP Atta (100% Atta, 0% Maida) (10 kg)",
-        "dmart": "Aashirvaad Superior MP Wheat Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 536,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/aashirvaad-superior-mp-atta-100-atta-0-maida-10-kg/prid/68483"
-        },
-        "dmart": {
-          "price": 514,
-          "quantity": "10 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": 0.8600000000000001
-    },
-    {
-      "name": "Pillsbury Chakki Fresh Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/81d17187-b0f3-4010-84f3-14b0596b9478.png",
-      "original_names": {
-        "blinkit": "Pillsbury Chakki Fresh Atta (100% atta, 0% Maida)",
-        "dmart": "Pillsbury Chakki Fresh Wheat Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 123,
-          "quantity": "2 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/pillsbury-chakki-fresh-atta-100-atta-0-maida/prid/77876"
-        },
-        "dmart": {
-          "price": 416,
-          "quantity": "10 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": 0.8600000000000001
-    },
-    {
-      "name": "Samrat Whole Wheat Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c8658726-c677-44e0-94f4-069d14c702c3.png",
-      "original_names": {
-        "blinkit": "Samrat Whole Wheat Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 413,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/samrat-whole-wheat-atta/prid/14244"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Two Brothers Khapli Wheat Atta Stoneground",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/52d57049-04a4-4cc0-ae12-608b6672f0a6.png",
-      "original_names": {
-        "blinkit": "Two Brothers Khapli Wheat Atta, Stoneground"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 238,
-          "quantity": "1 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/two-brothers-khapli-wheat-atta-stoneground/prid/579854"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Wheat Organic Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/a6be257d-8d32-4b37-9f15-a72398d6a2fd.png",
-      "original_names": {
-        "blinkit": "Organic Tattva Wheat Organic Atta - 5 kg"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 309,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/organic-tattva-wheat-organic-atta-5-kg/prid/86973"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Silver Coin Traditional Chakki Fresh Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/dd645505-0b00-43f9-b805-9c46dc444ed2.png",
-      "original_names": {
-        "blinkit": "Silver Coin Traditional Chakki Fresh Atta 10 kg"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 429,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/silver-coin-traditional-chakki-fresh-atta-10-kg/prid/174378"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Patanjali Whole Wheat Chakki Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bc0577fb-33d8-4fff-80f7-61596307537c.png",
-      "original_names": {
-        "blinkit": "Patanjali Whole Wheat Chakki Atta (with Bran) 5 kg"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 265,
-          "quantity": "5 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/patanjali-whole-wheat-chakki-atta-with-bran-5-kg/prid/55389"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Patanjali Traditional Whole Wheat Chakki Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/0cf8e9a9-af49-4f0c-9f6a-c3623efceebd.png",
-      "original_names": {
-        "blinkit": "Patanjali Traditional Whole Wheat Chakki Atta (with Bran)"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 500,
-          "quantity": "10 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/patanjali-traditional-whole-wheat-chakki-atta-with-bran/prid/55388"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Whole Farm Premium Makki Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9c94f71f-4f87-40b4-a431-d81ef5e36799.png",
-      "original_names": {
-        "blinkit": "Whole Farm Premium Makki Atta (Maize Flour)"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 29,
-          "quantity": "500 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/whole-farm-premium-makki-atta-maize-flour/prid/537081"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Two Brothers Khapli Multigrain Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3cd47b19-15d1-456d-b6ba-78755055f424.png",
-      "original_names": {
-        "blinkit": "Two Brothers Khapli Multigrain Atta (8 grains)"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 182,
-          "quantity": "1 kg",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/two-brothers-khapli-multigrain-atta-8-grains/prid/626915"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Safe Harvest Pesticide Free Roasted Sooji Rava",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d85eba1d-8557-4ae0-b223-f4bbbb44db8f.png",
-      "original_names": {
-        "blinkit": "Safe Harvest Pesticide-Free Roasted Sooji/Rava"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 55,
-          "quantity": "500 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/safe-harvest-pesticide-free-roasted-sooji-rava/prid/198081"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Rajgira Flour",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/3d148234-b0f2-4ae9-86f0-e4a83aeba74f.png",
-      "original_names": {
-        "blinkit": "Bhagirathi Rajgira Flour"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 64,
-          "quantity": "200 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/bhagirathi-rajgira-flour/prid/381022"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Two Brothers Jowar Flour Stoneground",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c01a2040-7002-41cc-983c-fb4b8bc083ae.png",
-      "original_names": {
-        "blinkit": "Two Brothers Jowar Flour, Stoneground"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 98,
-          "quantity": "500 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/two-brothers-jowar-flour-stoneground/prid/626513"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Two Brothers Roasted Bengal Gram Sattu Atta",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f68fb651-48a8-49ad-b974-1532246af1be.png",
-      "original_names": {
-        "blinkit": "Two Brothers Roasted Bengal Gram Sattu Atta"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 191,
-          "quantity": "500 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/two-brothers-roasted-bengal-gram-sattu-atta/prid/626986"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Praakritik Singhara Flour",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/67bad83a-f2e8-464d-baa5-cab7997d6676.png",
-      "original_names": {
-        "blinkit": "Praakritik Singhara Flour"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 216,
-          "quantity": "500 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/praakritik-singhara-flour/prid/478957"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Whole Farm Premium Kuttu Flour",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/e21ddad3-a5be-4c73-9d0d-1bdacf9b816b.png",
-      "original_names": {
-        "blinkit": "Whole Farm Premium Kuttu Flour"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 29,
-          "quantity": "250 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/whole-farm-premium-kuttu-flour/prid/612720"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Whole Farm Premium Rajgira Amaranth Millet Seeds",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8824303e-9e67-4298-a083-e32e4a9cdf6a.png",
-      "original_names": {
-        "blinkit": "Whole Farm Premium Rajgira/Amaranth Millet Seeds"
-      },
-      "platforms": {
-        "blinkit": {
-          "price": 86,
-          "quantity": "500 g",
-          "deliveryTime": "11 MINS",
-          "link": "https://blinkit.com/prn/whole-farm-premium-rajgira-amaranth-millet-seeds/prid/529762"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Select Sharbati Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/IAtta5kgASHW3501xx150421_5_P.jpg",
-      "original_names": {
-        "dmart": "Aashirvaad Select Sharbati Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 288,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Multigrain Atta",
-      "image": "https://cdn.dmart.in/images/products/IMultigrainAtta5kgASHW3538xx150421_5_P.jpg",
-      "original_names": {
-        "dmart": "Aashirvaad Multigrain Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 299,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Samrat Mp Chakki Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110000177xx28JUN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Samrat MP Chakki Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 390,
-          "quantity": "10 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Fortune Chakki Fresh Whole Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110001410xx28JUN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Fortune Chakki Fresh Whole Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 411,
-          "quantity": "10 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Taste Life Mp Sihore Chapati Fine Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110001322xx17DEC21_5_P.jpg",
-      "original_names": {
-        "dmart": "Taste For Life MP Sihore Chapati Fine Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 393,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Pillsbury Sharbati Wheat Gold Atta",
-      "image": "https://cdn.dmart.in/images/products/MAY110004273xx28MAY25_5_P.jpg",
-      "original_names": {
-        "dmart": "Pillsbury Sharbati Wheat Gold Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 251,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Nature Fresh Sampoorna Superior Mp Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/AUG110000183xx11AUG23_5_P.jpg",
-      "original_names": {
-        "dmart": "Nature Fresh Sampoorna Superior MP Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 469,
-          "quantity": "10 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Pillsbury Multi Grain Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110000197xx27DEC24_5_P.jpg",
-      "original_names": {
-        "dmart": "Pillsbury Multi Grain Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 275,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Dmart Premia Rice Atta",
-      "image": "https://cdn.dmart.in/images/products/SEP110004065xx11SEP23_5_P.jpg",
-      "original_names": {
-        "dmart": "DMart Premia Rice Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 50,
-          "quantity": "1 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Dmart Premia Sharbati Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110004491xx24JUN24_5_P.jpg",
-      "original_names": {
-        "dmart": "DMart Premia Sharbati Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 267,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Organic Wheat Flour",
-      "image": "https://cdn.dmart.in/images/products/JUN110003114xx9JUN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Organic Tattva Organic Wheat Flour"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 308,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Dmart Premia Jawari Atta",
-      "image": "https://cdn.dmart.in/images/products/SEP110004089xx19SEP23_5_P.jpg",
-      "original_names": {
-        "dmart": "DMart Premia Jawari Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 33,
-          "quantity": "500 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Taste Life Premium Khapli Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/FEB110003228xx6FEB25_5_P.jpg",
-      "original_names": {
-        "dmart": "Taste For Life Premium Khapli Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 163,
-          "quantity": "1 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Taste Life Mp Sihore Wheat Multigrain Atta",
-      "image": "https://cdn.dmart.in/images/products/FEB110001413xx6FEB25_5_P.jpg",
-      "original_names": {
-        "dmart": "Taste For Life MP Sihore Wheat + Multigrain Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 87,
-          "quantity": "1 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "24 Mantra Organic Whole Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/JUL110000993xx18JUL25_5_P.jpg",
-      "original_names": {
-        "dmart": "24 Mantra Organic Whole Wheat Atta",
-        "bigbasket": "24 Mantra Organic Whole Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 349,
-          "quantity": "5 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        },
-        "bigbasket": {
-          "price": 297.5,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/100448228/24-mantra-organic-whole-wheat-atta-5-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=20&t_s=Whole+Wheat+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Dmart Premia Makai Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110004098xx25DEC23_5_P.jpg",
-      "original_names": {
-        "dmart": "DMart Premia Makai Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 21,
-          "quantity": "500 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Praakritik Khapli Wheat Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110005357xx1DEC25_5_P.jpg",
-      "original_names": {
-        "dmart": "Praakritik Khapli Wheat Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 145,
-          "quantity": "1 kg",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Sattu Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110003016xx1JUN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Bhagirathi Sattu Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 33,
-          "quantity": "200 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Gokul 4 In 1 Stainless Steel Interchangeable Sieve Set",
-      "image": "https://cdn.dmart.in/images/products/SEP150007633xx12SEP24_5_P.jpg",
-      "original_names": {
-        "dmart": "Gokul 4 in 1 Stainless Steel Interchangeable Sieve Set"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 187,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Multigrain Bhakari Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110000883xx1JUN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Bhagirathi Multigrain Bhakari Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 40,
-          "quantity": "500 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Rajgira Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110000885xx8DEC21_5_P.jpg",
-      "original_names": {
-        "dmart": "Bhagirathi Rajgira Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 48,
-          "quantity": "200 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Dmart Premia Bajari Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110004069xx20DEC23_5_P.jpg",
-      "original_names": {
-        "dmart": "DMart Premia Bajari Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 28,
-          "quantity": "500 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Elephant Stainless Steel Atta Maida",
-      "image": "https://cdn.dmart.in/images/products/JAN150005956xx3JAN24_5_P.jpg",
-      "original_names": {
-        "dmart": "Elephant Stainless Steel Atta/Maida"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 92,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Shingada Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110000886xx8DEC21_5_P.jpg",
-      "original_names": {
-        "dmart": "Bhagirathi Shingada Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 89,
-          "quantity": "200 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Bajra Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110000876xx1JUN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Bhagirathi Bajra Atta"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 32,
-          "quantity": "500 g",
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Rice Atta",
-      "image": "https://cdn.dmart.in/images/products/DEC110000879xx8DEC21_5_P.jpg",
-      "original_names": {
-        "dmart": "Bhagirathi Rice Atta"
-      },
-      "platforms": {
-        "dmart": {
           "price": 34,
-          "quantity": "500 g",
+          "quantity": "500 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/saras-gold-full-cream-milk/prid/46256"
+        },
+        "zepto": {
+          "price": 34,
+          "quantity": "500 ml",
           "deliveryTime": "N/A",
-          "link": "N/A"
+          "link": "https://www.zepto.com/pn/saras-gold-full-cream-fresh-milk-pouch/pvid/37b3e30c-e0f8-4039-afae-1c16cae8b1d8"
+        }
+      },
+      "similarity_score": 0.871264367816092
+    },
+    {
+      "name": "Amul Taaza Toned Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/71e545db-24e9-40c9-9d47-1e197b50fb28.png",
+      "original_names": {
+        "blinkit": "Amul Taaza Toned Milk",
+        "zepto": "Amul Taaza Toned Fresh Milk | Pouch"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 53,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-taaza-toned-milk/prid/561270"
+        },
+        "zepto": {
+          "price": 53,
+          "quantity": "1 pack",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-taaza-toned-fresh-milk-pouch/pvid/faabc8db-cb19-4021-9a0f-77e1011baa4c"
+        }
+      },
+      "similarity_score": 0.8450000000000001
+    },
+    {
+      "name": "Amul Gold Full Cream Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/74b0d3be-111c-4342-ac27-43fd7bb54793.png",
+      "original_names": {
+        "blinkit": "Amul Gold Full Cream Milk",
+        "zepto": "Amul Gold Full Cream Fresh Milk | Pouch"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 67,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-gold-full-cream-milk/prid/561268"
+        },
+        "zepto": {
+          "price": 67,
+          "quantity": "1 pack",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-gold-full-cream-fresh-milk-pouch/pvid/a3277b40-243f-4bd5-a38e-af3a77b837e1"
+        }
+      },
+      "similarity_score": 0.8690476190476191
+    },
+    {
+      "name": "Amul Buffalo A2 Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1ded64a0-9f20-4a1d-8211-156f221b377b.png",
+      "original_names": {
+        "blinkit": "Amul Buffalo A2 Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 90,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-buffalo-a2-milk/prid/547185"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Dmart Premia Ragi Flour",
-      "image": "https://cdn.dmart.in/images/products/SEP110004122xx19SEP23_5_P.jpg",
+      "name": "Amul Taaza Homogenised Toned Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/9a4088cc-db19-4add-b3ce-2edd4d09f4ae.png",
       "original_names": {
-        "dmart": "DMart Premia Ragi Flour"
+        "blinkit": "Amul Taaza Homogenised Toned Milk",
+        "zepto": "Amul Taaza Homogenised Toned Milk (Tetra Pack)"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 75,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-taaza-homogenised-toned-milk/prid/176"
+        },
+        "zepto": {
+          "price": 16,
+          "quantity": "200 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-taaza-homogenised-toned-milk-tetra-pack/pvid/2a231315-2b07-4de0-af4a-3a4f9c48ad0c"
+        }
+      },
+      "similarity_score": 1.0
+    },
+    {
+      "name": "Amul Lactose Free Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/87c1c525-750e-475f-91d1-f155026ddaa1.png",
+      "original_names": {
+        "blinkit": "Amul Lactose Free Milk",
+        "zepto": "Amul Lactose Free Milk (Tetra Pack)"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 25,
+          "quantity": "250 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-lactose-free-milk/prid/206314"
+        },
+        "zepto": {
+          "price": 25,
+          "quantity": "250 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-lactose-free-milk-tetra-pack/pvid/23037033-b0ab-4109-82b6-30f3a2a2cf84"
+        }
+      },
+      "similarity_score": 1.0
+    },
+    {
+      "name": "Amul Gold Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/8b6b5194-6eaa-4db2-9257-2d27ad931303.png",
+      "original_names": {
+        "blinkit": "Amul Gold Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 80,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-gold-milk/prid/179"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Taaza Toned Milk Pack Of 2",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/ce70d80f-bb6d-4aea-b1b2-eba9b30bf0ac.png",
+      "original_names": {
+        "blinkit": "Amul Taaza Toned Milk - Pack of 2"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 32,
+          "quantity": "2 x 200 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-taaza-toned-milk-pack-of-2/prid/485113"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Mother Dairy Cow Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/60065a08-2486-4f67-b2ae-e03670b2c8f3.png",
+      "original_names": {
+        "blinkit": "Mother Dairy Cow Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 27,
+          "quantity": "500 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/mother-dairy-cow-milk/prid/339309"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Slim N Trim Skimmed Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c1fb14c1-2f67-4fa1-bee8-04f68c8cd8e9.png",
+      "original_names": {
+        "blinkit": "Amul Slim 'n' Trim Skimmed Milk (Zero Cholesterol)",
+        "zepto": "Amul Slim Trim Skimmed Milk (Tetra Pack)"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 82,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-slim-n-trim-skimmed-milk-zero-cholesterol/prid/177181"
+        },
+        "zepto": {
+          "price": 82,
+          "quantity": "1 pack",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-slim-trim-skimmed-milk-tetra-pack/pvid/11cca7b6-7d07-4e6e-a799-0fcf85f7b5da"
+        }
+      },
+      "similarity_score": 0.9119047619047619
+    },
+    {
+      "name": "Mother Dairy Fit Life Homogenized Double Toned Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/af0e692b-af5a-464f-8766-59ce4b4ad95c.png",
+      "original_names": {
+        "blinkit": "Mother Dairy FIT Life Homogenized Double Toned Milk (450 ml)"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 32,
+          "quantity": "450 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/mother-dairy-fit-life-homogenized-double-toned-milk-450-ml/prid/207766"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Cow Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/5799b89d-2123-4746-b6e7-916722c37aec.png",
+      "original_names": {
+        "blinkit": "Amul Cow Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 76,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-cow-milk/prid/547184"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Mother Dairy Toned Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/dab55302-9f72-4479-bd04-a72e1dd4613e.png",
+      "original_names": {
+        "blinkit": "Mother Dairy Toned Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 75,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/mother-dairy-toned-milk/prid/32685"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Toned Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d72751f9-e17e-4942-aa8d-0eda5d43ed90.png",
+      "original_names": {
+        "blinkit": "Nestle a+ Toned Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 108,
+          "quantity": "1 ltr",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/nestle-a-toned-milk/prid/138836"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Camel Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b19e7c30-05c0-4d42-9abc-2c6c2ef7c267.png",
+      "original_names": {
+        "blinkit": "Amul Camel Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 25,
+          "quantity": "200 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-camel-milk/prid/427633"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amulspray Ready To Feed Infant Formula",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/6aecc369-627d-43ea-950e-40148c97f7c2.png",
+      "original_names": {
+        "blinkit": "Amulspray Ready to Feed Infant Formula"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 25,
+          "quantity": "250 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amulspray-ready-to-feed-infant-formula/prid/617807"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Yakult Probiotic Drink",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/57862459-07c7-4639-a94a-d913da5b00c7.png",
+      "original_names": {
+        "blinkit": "Yakult Probiotic Drink"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 90,
+          "quantity": "5 x 65 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/yakult-probiotic-drink/prid/3471"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Yakult Light Probiotic Drink",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/31a7e4d7-093c-45da-9190-660d202d989d.png",
+      "original_names": {
+        "blinkit": "Yakult Light Probiotic Drink"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 100,
+          "quantity": "5 x 65 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/yakult-light-probiotic-drink/prid/382243"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Kool Cafe Milk N Coffee Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/66751334-2a0b-4f91-823a-bb76fc79363f.png",
+      "original_names": {
+        "blinkit": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 30,
+          "quantity": "200 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-cafe-milk-n-coffee-flavoured-milk/prid/341598"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Kool Rose Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b582cc56-32fa-4d3e-a399-233cb148e7c3.png",
+      "original_names": {
+        "blinkit": "Amul Kool Rose Flavoured Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 25,
+          "quantity": "180 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-rose-flavoured-milk/prid/402721"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Hommade Coconut Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eaea170d-479e-4003-8303-bd0e0ee6607d.png",
+      "original_names": {
+        "blinkit": "Hommade Coconut Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 81,
+          "quantity": "200 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/hommade-coconut-milk/prid/29550"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Real Thai Uht Coconut Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/d2102d52-e98b-4fc6-98fc-fb3dc239abc0.png",
+      "original_names": {
+        "blinkit": "Real Thai UHT Coconut Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 150,
+          "quantity": "250 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/real-thai-uht-coconut-milk/prid/82337"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Slurrp Farm Wheat Apple Date Baby Cereal Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/11ee941a-6428-4eb9-a071-ff67b2ae6711.png",
+      "original_names": {
+        "blinkit": "Slurrp Farm Wheat, Apple & Date Baby Cereal With Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 311,
+          "quantity": "200 g",
+          "deliveryTime": "13 MINS",
+          "link": "https://blinkit.com/prn/slurrp-farm-wheat-apple-date-baby-cereal-with-milk/prid/589243"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Kool Koko Chocolate Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c90621db-49bf-431b-aa35-00e24a786129.png",
+      "original_names": {
+        "blinkit": "Amul Kool Koko Chocolate Flavoured Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 35,
+          "quantity": "180 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-koko-chocolate-flavoured-milk/prid/19503"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Kool Badam Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/1a98a20c-8ed3-473f-a306-e03bd1e75a7f.png",
+      "original_names": {
+        "blinkit": "Amul Kool Badam Flavoured Milk",
+        "dmart": "Amul Kool Badam Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 25,
+          "quantity": "180 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-badam-flavoured-milk/prid/19504"
+        },
+        "dmart": {
+          "price": 23,
+          "quantity": "180 ml",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": 0.8
+    },
+    {
+      "name": "Amul Kool Elaichi Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/c988c2c6-0808-4296-838f-aa20db89c1ed.png",
+      "original_names": {
+        "blinkit": "Amul Kool Elaichi Flavoured Milk",
+        "dmart": "Amul Kool Elaichi Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 25,
+          "quantity": "180 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-elaichi-flavoured-milk/prid/402720"
+        },
+        "dmart": {
+          "price": 23,
+          "quantity": "180 ml",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": 0.8088888888888889
+    },
+    {
+      "name": "Urban Platter Unsweetened Coconut Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/b40c7b00-a013-4c3e-b816-bd3fa4b25dfb.png",
+      "original_names": {
+        "blinkit": "Urban Platter Unsweetened Coconut Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 136,
+          "quantity": "250 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/urban-platter-unsweetened-coconut-milk/prid/488040"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Pure Milk Cheese Block",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bce5f050-e8fa-420b-a1b9-8d1abbed18cf.png",
+      "original_names": {
+        "blinkit": "Amul Pure Milk Cheese Block"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 237,
+          "quantity": "400 g",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-pure-milk-cheese-block/prid/178310"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Kool Classic Latte Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/386d6222-1190-444d-b620-609e039b2bd0.png",
+      "original_names": {
+        "blinkit": "Amul Kool Classic Latte Flavoured Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 40,
+          "quantity": "200 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-classic-latte-flavoured-milk/prid/304578"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Slurrp Farm Multigrain Millets Mixed Fruit Baby Cereal Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/bad1f01a-7a1e-4e08-a927-bc6a647e1dfd.png",
+      "original_names": {
+        "blinkit": "Slurrp Farm Multigrain Millets & Mixed Fruit Baby Cereal With Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 311,
+          "quantity": "200 g",
+          "deliveryTime": "13 MINS",
+          "link": "https://blinkit.com/prn/slurrp-farm-multigrain-millets-mixed-fruit-baby-cereal-with-milk/prid/589265"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Lactogrow Nutritious Kids Milk Drink",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/26be904b-8dc7-4a70-8f13-35f02a77afec.png",
+      "original_names": {
+        "blinkit": "Nestle Lactogrow Nutritious Kids Milk Drink (Biscuity Vanilla Flavour (2 - 6 years))"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 337,
+          "quantity": "400 g",
+          "deliveryTime": "13 MINS",
+          "link": "https://blinkit.com/prn/nestle-lactogrow-nutritious-kids-milk-drink-biscuity-vanilla-flavour-2-6-years/prid/429438"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Lotus Kulfi Badam Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/eeadc602-5d89-40dd-aadc-39d3dcf441e8.png",
+      "original_names": {
+        "blinkit": "Lotus Kulfi Badam Flavoured Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 49,
+          "quantity": "180 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/lotus-kulfi-badam-flavoured-milk/prid/609633"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Kool Strawberry Flavoured Milk",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/da/cms-assets/cms/product/f9d052ec-1c7d-4965-9196-9192ee6241f3.png",
+      "original_names": {
+        "blinkit": "Amul Kool Strawberry Flavoured Milk"
+      },
+      "platforms": {
+        "blinkit": {
+          "price": 30,
+          "quantity": "200 ml",
+          "deliveryTime": "8 MINS",
+          "link": "https://blinkit.com/prn/amul-kool-strawberry-flavoured-milk/prid/26904"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Hershey S Chocolate Milk Shake",
+      "image": "https://cdn.dmart.in/images/products/KMilkProducts200mlHSRP2481xx100521_6_P.jpg",
+      "original_names": {
+        "dmart": "Hershey's Chocolate Milk Shake",
+        "zepto": "Hershey's Chocolate Milkshake"
       },
       "platforms": {
         "dmart": {
-          "price": 46,
-          "quantity": "500 g",
+          "price": 29,
+          "quantity": "180 ml",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        },
+        "zepto": {
+          "price": 30,
+          "quantity": "180 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/hersheys-chocolate-milkshake/pvid/88e09c4d-9227-43b4-81bf-6299d92a654a"
+        }
+      },
+      "similarity_score": 0.8298305084745763
+    },
+    {
+      "name": "Amul Kool Rose Milk",
+      "image": "https://cdn.dmart.in/images/products/MAY130000566xx3MAY24_5_P.jpg",
+      "original_names": {
+        "dmart": "Amul Kool Rose Milk"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 23,
+          "quantity": "180 ml",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -946,31 +661,38 @@
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Nachani Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110000878xx1JUN22_5_P.jpg",
+      "name": "Britannia Milk Bikis Biscuits",
+      "image": "https://cdn.dmart.in/images/products/MAY120008010xx15MAY25_5_P.jpg",
       "original_names": {
-        "dmart": "Bhagirathi Nachani (Ragi) Atta"
+        "dmart": "Britannia Milk Bikis Biscuits",
+        "zepto": "Britannia Milk Bikis Biscuits"
       },
       "platforms": {
         "dmart": {
           "price": 45,
-          "quantity": "500 g",
+          "quantity": "188 g",
           "deliveryTime": "N/A",
           "link": "N/A"
+        },
+        "zepto": {
+          "price": 42,
+          "quantity": "188 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/britannia-milk-bikis-biscuits/pvid/fd80572d-f4c7-4a95-8bdf-130308480639"
         }
       },
-      "similarity_score": null
+      "similarity_score": 1.0
     },
     {
-      "name": "Bhagirathi Jowar Atta",
-      "image": "https://cdn.dmart.in/images/products/JUN110000880xx1JUN22_5_P.jpg",
+      "name": "Fiama Japanese Hokkaido Milk Non Sticky Nousrished Skin Moisturizing Bar",
+      "image": "https://cdn.dmart.in/images/products/JUL140006704xx16JUL25_5_P.jpg",
       "original_names": {
-        "dmart": "Bhagirathi Jowar Atta"
+        "dmart": "Fiama Japanese Hokkaido Milk Non Sticky Nousrished Skin Moisturizing Bar"
       },
       "platforms": {
         "dmart": {
-          "price": 44,
-          "quantity": "500 g",
+          "price": 329,
+          "quantity": "125 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -978,31 +700,38 @@
       "similarity_score": null
     },
     {
-      "name": "Satyam Rice Atta",
-      "image": "https://cdn.dmart.in/images/products/JOtherFlours500gmSTYM544xx205021_5_P.jpg",
+      "name": "Cadbury Dairy Milk Chocolate Mini Treats",
+      "image": "https://cdn.dmart.in/images/products/NOV120000680xx28NOV24_5_P.jpg",
       "original_names": {
-        "dmart": "Satyam Rice Atta"
+        "dmart": "Cadbury Dairy Milk Silk Chocolate Mini Treats",
+        "zepto": "Cadbury Dairy Milk Mini Treats | Chocolate Pack"
       },
       "platforms": {
         "dmart": {
-          "price": 40,
-          "quantity": "500 g",
+          "price": 162,
+          "quantity": "135 g",
           "deliveryTime": "N/A",
           "link": "N/A"
+        },
+        "zepto": {
+          "price": 99,
+          "quantity": "1 pack",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-mini-treats-chocolate-pack/pvid/852feb0b-04b4-4abe-8938-c9e63db30d2d"
         }
       },
-      "similarity_score": null
+      "similarity_score": 0.8476190476190476
     },
     {
-      "name": "Sunfeast Yippee Power Up Masala Atta Noodles",
-      "image": "https://cdn.dmart.in/images/products/LNOODLES280gmSunf30xx110520211509_5_P.jpg",
+      "name": "Cadbury Dairy Milk Lickables Oreo Chunks",
+      "image": "https://cdn.dmart.in/images/products/SEP120000682xx5SEP25_5_P.jpg",
       "original_names": {
-        "dmart": "Sunfeast Yippee Power Up Masala Atta Noodles"
+        "dmart": "Cadbury Dairy Milk Lickables with Oreo Chunks"
       },
       "platforms": {
         "dmart": {
-          "price": 80,
-          "quantity": "280 g",
+          "price": 38,
+          "quantity": "20 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1010,31 +739,38 @@
       "similarity_score": null
     },
     {
-      "name": "Maggi Masala Veg Atta Noodles",
-      "image": "https://cdn.dmart.in/images/products/MAY120004028xx14MAY25_5_P.jpg",
+      "name": "Cadbury Dairy Milk Silk Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/JAN120000691xx4JAN26vvG114g_5_P.jpg",
       "original_names": {
-        "dmart": "Maggi Masala Veg Atta Noodles"
+        "dmart": "Cadbury Dairy Milk Silk Oreo Chocolate Bar",
+        "zepto": "Cadbury Dairy Milk Chocolate Bar | Smooth & Rich Milk"
       },
       "platforms": {
         "dmart": {
-          "price": 128,
-          "quantity": "435 g",
+          "price": 189,
+          "quantity": "124 g",
           "deliveryTime": "N/A",
           "link": "N/A"
+        },
+        "zepto": {
+          "price": 45,
+          "quantity": "46 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-chocolate-bar-smooth-rich-milk/pvid/c442ad9b-09b6-4505-a17d-7d2b3cceee0e"
         }
       },
-      "similarity_score": null
+      "similarity_score": 0.8898550724637682
     },
     {
-      "name": "India Gate Basmati Rice Mini Mogra Ii Kanki",
-      "image": "https://cdn.dmart.in/images/products/Oct110000329xx23Oct25vvG10kg_5_P.jpg",
+      "name": "Cadbury Dairy Milk Silk Bubbly Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/APR120000692xx24APR25_5_P.jpg",
       "original_names": {
-        "dmart": "India Gate Basmati Rice - Mini Mogra-II - Kanki"
+        "dmart": "Cadbury Dairy Milk Silk Bubbly Chocolate Bar"
       },
       "platforms": {
         "dmart": {
-          "price": 429,
-          "quantity": "10 kg",
+          "price": 189,
+          "quantity": "112 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1042,15 +778,15 @@
       "similarity_score": null
     },
     {
-      "name": "Grand Chapati Contest By Asha Nehemiah",
-      "image": "https://cdn.dmart.in/images/products/NOV270000686xx13NOV25vvG1u_5_P.jpg",
+      "name": "Cadbury Dairy Milk Silk Fruit And Nut Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/APR120000696xx24APR25_5_P.jpg",
       "original_names": {
-        "dmart": "The Grand Chapati Contest By Asha Nehemiah"
+        "dmart": "Cadbury Dairy Milk Silk Fruit and Nut Chocolate Bar"
       },
       "platforms": {
         "dmart": {
-          "price": 149,
-          "quantity": null,
+          "price": 92,
+          "quantity": "51 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1058,15 +794,15 @@
       "similarity_score": null
     },
     {
-      "name": "Satyam Rajgira Flour",
-      "image": "https://cdn.dmart.in/images/products/IRajgiraAtta500gSTYM3542xx205021_5_P.jpg",
+      "name": "Cadbury Dairy Milk Silk Roast Almond Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/MAY120000698xx29MAY25_5_P.jpg",
       "original_names": {
-        "dmart": "Satyam Rajgira Flour"
+        "dmart": "Cadbury Dairy Milk Silk Roast Almond Chocolate Bar"
       },
       "platforms": {
         "dmart": {
-          "price": 112,
-          "quantity": "500 g",
+          "price": 88,
+          "quantity": "52 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1074,15 +810,15 @@
       "similarity_score": null
     },
     {
-      "name": "Bedekar Upwas Bhajni",
-      "image": "https://cdn.dmart.in/images/products/NOV110001112xx23NOV23_5_P.jpg",
+      "name": "Cadbury Dairy Milk Fruit Nut Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/AUG120000699xx23AUG24_5_P.jpg",
       "original_names": {
-        "dmart": "Bedekar Upwas Bhajni"
+        "dmart": "Cadbury Dairy Milk Fruit & Nut Chocolate Bar"
       },
       "platforms": {
         "dmart": {
-          "price": 59,
-          "quantity": "200 g",
+          "price": 82,
+          "quantity": "75 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1090,31 +826,38 @@
       "similarity_score": null
     },
     {
-      "name": "Bedekar Thalipith Bhajni",
-      "image": "https://cdn.dmart.in/images/products/FEB110001113xx26FEB24_5_P.jpg",
+      "name": "Cadbury Dairy Milk Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/APR120001787xx23APR25_5_P.jpg",
       "original_names": {
-        "dmart": "Bedekar Thalipith Bhajni"
+        "dmart": "Cadbury Dairy Milk Chocolate Bar",
+        "zepto": "Cadbury Dairy Milk Chocolate Bar | Smooth & Rich Milk"
       },
       "platforms": {
         "dmart": {
-          "price": 40,
-          "quantity": "200 g",
+          "price": 95,
+          "quantity": "112 g",
           "deliveryTime": "N/A",
           "link": "N/A"
+        },
+        "zepto": {
+          "price": 19,
+          "quantity": "20.2 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-chocolate-bar-smooth-rich-milk/pvid/ec75d477-2f83-4015-92bd-57dc0f777076"
         }
       },
-      "similarity_score": null
+      "similarity_score": 1.0
     },
     {
-      "name": "Bhagirathi Thalipeeth Bhajni",
-      "image": "https://cdn.dmart.in/images/products/DEC110000881xx8DEC21_5_P.jpg",
+      "name": "Godrej No 1 Kesar Milk Cream Soap",
+      "image": "https://cdn.dmart.in/images/products/NOV140000455xx28NOV25vvG_5_P.jpg",
       "original_names": {
-        "dmart": "Bhagirathi Thalipeeth Bhajni"
+        "dmart": "Godrej No.1 Kesar & Milk Cream Soap"
       },
       "platforms": {
         "dmart": {
-          "price": 41,
-          "quantity": "200 g",
+          "price": 154,
+          "quantity": "3 x 150 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1122,15 +865,15 @@
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Upwas Bhajani",
-      "image": "https://cdn.dmart.in/images/products/JUN110000887xx1JUN22_5_P.jpg",
+      "name": "Cadbury Dairy Milk Silk Pralines Classic Dark",
+      "image": "https://cdn.dmart.in/images/products/OCT120000826xx10OCT25vv0176g_5_P.jpg",
       "original_names": {
-        "dmart": "Bhagirathi Upwas Bhajani"
+        "dmart": "Cadbury Dairy Milk Silk Pralines Classic & Dark"
       },
       "platforms": {
         "dmart": {
-          "price": 52,
-          "quantity": "200 g",
+          "price": 309,
+          "quantity": "176 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1138,15 +881,15 @@
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Ghavane Flour",
-      "image": "https://cdn.dmart.in/images/products/SEP110003507xx11SEP25_5_P.jpg",
+      "name": "Pedigree Puppy Food Chicken Milk",
+      "image": "https://cdn.dmart.in/images/products/JUL120000840xx19JUL24_5_P.jpg",
       "original_names": {
-        "dmart": "Bhagirathi Ghavane Flour"
+        "dmart": "Pedigree Puppy Food - Chicken & Milk"
       },
       "platforms": {
         "dmart": {
-          "price": 37,
-          "quantity": "500 g",
+          "price": 590,
+          "quantity": "2.8 kg",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1154,15 +897,15 @@
       "similarity_score": null
     },
     {
-      "name": "Joyo Plastic Kitchen King Storage Container 20 5 L",
-      "image": "https://cdn.dmart.in/images/products/JUN150005342xx26JUN23_5_P.jpg",
+      "name": "Cadbury Dairy Milk Silk Hazelnut Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/MAY120001462xx29MAY25_5_P.jpg",
       "original_names": {
-        "dmart": "Joyo Plastic Kitchen King Storage Container (Brown) - 16.5 L"
+        "dmart": "Cadbury Dairy Milk Silk Hazelnut Chocolate Bar"
       },
       "platforms": {
         "dmart": {
-          "price": 249,
-          "quantity": null,
+          "price": 184,
+          "quantity": "134 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1170,15 +913,15 @@
       "similarity_score": null
     },
     {
-      "name": "Unica Multipurpose Storage Container Set Of 3",
-      "image": "https://cdn.dmart.in/images/products/OCT150008109xx24OCT24_5_P.jpg",
+      "name": "Amul Milk Chocolate",
+      "image": "https://cdn.dmart.in/images/products/MAY120001619xx3MAY24_5_P.jpg",
       "original_names": {
-        "dmart": "Unica Multipurpose Storage Container (Blue) - Set of 3"
+        "dmart": "Amul Milk Chocolate"
       },
       "platforms": {
         "dmart": {
-          "price": 299,
-          "quantity": null,
+          "price": 160,
+          "quantity": "150 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1186,31 +929,38 @@
       "similarity_score": null
     },
     {
-      "name": "Unica Splendido Multipurpose Storage Container Set Of 7",
-      "image": "https://cdn.dmart.in/images/products/OCT150008104xx24OCT24_5_P.jpg",
+      "name": "Cadbury Dairy Milk Crispello Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/MAY120002773xx13MAY25_5_P.jpg",
       "original_names": {
-        "dmart": "Unica Splendido Multipurpose Storage Container (Blue) - Set of 7"
+        "dmart": "Cadbury Dairy Milk Crispello Chocolate Bar",
+        "zepto": "Cadbury Dairy Milk Chocolate Bar | Smooth & Rich Milk"
       },
       "platforms": {
         "dmart": {
-          "price": 499,
-          "quantity": null,
+          "price": 29,
+          "quantity": "35 g",
           "deliveryTime": "N/A",
           "link": "N/A"
+        },
+        "zepto": {
+          "price": 25,
+          "quantity": "1 pcs",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-chocolate-bar-smooth-rich-milk/pvid/97f20fe1-cf1b-4017-828a-f88336202c42"
         }
       },
-      "similarity_score": null
+      "similarity_score": 0.8522522522522523
     },
     {
-      "name": "Slurrp Farm Little Millet Mild Masala Noodles",
-      "image": "https://cdn.dmart.in/images/products/DEC120005584xx29DEC23_5_P.jpg",
+      "name": "Wow Skin Science Coconut Milk Shampoo",
+      "image": "https://cdn.dmart.in/images/products/JAN140004457xx30JAN23_5_P.jpg",
       "original_names": {
-        "dmart": "Slurrp Farm Little Millet Mild Masala Noodles"
+        "dmart": "WOW Skin Science Coconut Milk Shampoo"
       },
       "platforms": {
         "dmart": {
-          "price": 46,
-          "quantity": "192 g",
+          "price": 402,
+          "quantity": "500 ml",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1218,15 +968,15 @@
       "similarity_score": null
     },
     {
-      "name": "Slurrp Farm Millet Classic Masala Noodles",
-      "image": "https://cdn.dmart.in/images/products/DEC120005583xx29DEC23_5_P.jpg",
+      "name": "Cadbury Dairy Milk Chocolate Roast Almond",
+      "image": "https://cdn.dmart.in/images/products/AUG120007286xx16AUG24_5_P.jpg",
       "original_names": {
-        "dmart": "Slurrp Farm Millet Classic Masala Noodles"
+        "dmart": "Cadbury Dairy Milk Chocolate Roast Almond"
       },
       "platforms": {
         "dmart": {
-          "price": 46,
-          "quantity": "192 g",
+          "price": 86,
+          "quantity": "75 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1234,15 +984,15 @@
       "similarity_score": null
     },
     {
-      "name": "Slurrp Farm Curry Masala Noodles",
-      "image": "https://cdn.dmart.in/images/products/MAR120006126xx2MAR23_5_P.jpg",
+      "name": "Cadbury Dairy Milk Roast Almond",
+      "image": "https://cdn.dmart.in/images/products/AUG120001576xx23AUG24_5_P.jpg",
       "original_names": {
-        "dmart": "Slurrp Farm Curry Masala Noodles"
+        "dmart": "Cadbury Dairy Milk Roast Almond"
       },
       "platforms": {
         "dmart": {
-          "price": 46,
-          "quantity": "192 g",
+          "price": 43,
+          "quantity": "36 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1250,15 +1000,15 @@
       "similarity_score": null
     },
     {
-      "name": "House Of Festivals White Marble Shivling",
-      "image": "https://cdn.dmart.in/images/products/OCT150010516xx5OCT25_5_P.jpg",
+      "name": "Johnson S Baby Milk Rice Cream",
+      "image": "https://cdn.dmart.in/images/products/APR210000348xx12APR23_5_P.jpg",
       "original_names": {
-        "dmart": "House Of Festivals White Marble Shivling"
+        "dmart": "Johnson's Baby Milk + Rice Cream"
       },
       "platforms": {
         "dmart": {
-          "price": 149,
-          "quantity": null,
+          "price": 180,
+          "quantity": "100 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1266,15 +1016,15 @@
       "similarity_score": null
     },
     {
-      "name": "House Of Festivals Transparent Shivling",
-      "image": "https://cdn.dmart.in/images/products/OCT150010518xx5OCT25_5_P.jpg",
+      "name": "Lakme Peach Milk Moisturiser",
+      "image": "https://cdn.dmart.in/images/products/KSKINPROTECT200mlLKM22xx140521_5_P.jpg",
       "original_names": {
-        "dmart": "House Of Festivals Transparent Shivling"
+        "dmart": "Lakme Peach Milk Moisturiser"
       },
       "platforms": {
         "dmart": {
-          "price": 259,
-          "quantity": null,
+          "price": 469,
+          "quantity": "200 ml",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1282,15 +1032,15 @@
       "similarity_score": null
     },
     {
-      "name": "Ecraftindia Brown Resin Meditating Lord Shiva Statue",
-      "image": "https://cdn.dmart.in/images/products/JAN150011312xx8JAN26vvG1u_5_P.jpg",
+      "name": "Nivea Body Milk Shea Smooth Body Lotion",
+      "image": "https://cdn.dmart.in/images/products/JUN140000598xx19JUN24_5_P.jpg",
       "original_names": {
-        "dmart": "eCraftIndia Brown Resin Meditating Lord Shiva Statue"
+        "dmart": "Nivea Body Milk Shea Smooth Body Lotion"
       },
       "platforms": {
         "dmart": {
-          "price": 549,
-          "quantity": null,
+          "price": 459,
+          "quantity": "400 ml",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1298,15 +1048,15 @@
       "similarity_score": null
     },
     {
-      "name": "Ecraftindia White Resin Meditating Lord Shiva Statue",
-      "image": "https://cdn.dmart.in/images/products/JAN150011313xx8JAN26vvG1u_5_P.jpg",
+      "name": "Godrej No 1 Jasmine Milk Cream Soap",
+      "image": "https://cdn.dmart.in/images/products/NOV140000462xx7NOV24_5_P.jpg",
       "original_names": {
-        "dmart": "eCraftIndia White Resin Meditating Lord Shiva Statue"
+        "dmart": "Godrej No.1 Jasmine Milk Cream Soap"
       },
       "platforms": {
         "dmart": {
-          "price": 349,
-          "quantity": null,
+          "price": 120,
+          "quantity": "4 x 100 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1314,15 +1064,134 @@
       "similarity_score": null
     },
     {
-      "name": "Ecraftindia Golden Black Metal Shivling Naag Devta",
-      "image": "https://cdn.dmart.in/images/products/JAN150011314xx8JAN26vvG1u_5_P.jpg",
+      "name": "Nivea Body Milk Nourishing Lotion",
+      "image": "https://cdn.dmart.in/images/products/SEP140001749xx3SEP25vvG600ml_5_P.jpg",
       "original_names": {
-        "dmart": "eCraftIndia Golden Black Metal Shivling with Naag Devta"
+        "dmart": "Nivea Body Milk Nourishing Lotion"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 609,
+          "quantity": "600 ml",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Lakme Peach Milk Soft Creme",
+      "image": "https://cdn.dmart.in/images/products/APR140002223xx1APR25_5_P.jpg",
+      "original_names": {
+        "dmart": "Lakme Peach Milk Soft Creme"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 230,
+          "quantity": "100 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Milkmaid",
+      "image": "https://cdn.dmart.in/images/products/FEB130000026xx13FEB26vvG_4_P.jpg",
+      "original_names": {
+        "dmart": "Nestle Milkmaid"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 130,
+          "quantity": "380 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Milkmaid Mini",
+      "image": "https://cdn.dmart.in/images/products/FEB130002206xx13FEB26vvG_5_P.jpg",
+      "original_names": {
+        "dmart": "Nestle Milkmaid Mini",
+        "zepto": "Nestle Milkmaid Mini | Sweetened Liquid Condensed Milk | Rich & Creamy"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 72,
+          "quantity": "190 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        },
+        "zepto": {
+          "price": 73,
+          "quantity": "190 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/nestle-milkmaid-mini-sweetened-liquid-condensed-milk-rich-creamy/pvid/4302bada-88d1-472d-9d66-1ee35e6c8d3e"
+        }
+      },
+      "similarity_score": 1.0
+    },
+    {
+      "name": "Amul Fresh Cream",
+      "image": "https://cdn.dmart.in/images/products/MAY130000421xx25MAY22_5_P.jpg",
+      "original_names": {
+        "dmart": "Amul Fresh Cream"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 67,
+          "quantity": "250 ml",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestlé Everyday Dairy Whitener",
+      "image": "https://cdn.dmart.in/images/products/MAY130000013xx14MAY25_5_P.jpg",
+      "original_names": {
+        "dmart": "Nestlé Everyday Dairy Whitener"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 587,
+          "quantity": "1 kg",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Cadbury Mini Treats",
+      "image": "https://cdn.dmart.in/images/products/JUL120007726xx30JUL25_4_P.jpg",
+      "original_names": {
+        "dmart": "Cadbury Mini Treats"
+      },
+      "platforms": {
+        "dmart": {
+          "price": 95,
+          "quantity": "125.1 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nutri Delite Choco Flakes",
+      "image": "https://cdn.dmart.in/images/products/DEC120001223xx06DEC23_5_P.jpg",
+      "original_names": {
+        "dmart": "Nutri Delite Choco Flakes"
       },
       "platforms": {
         "dmart": {
           "price": 199,
-          "quantity": null,
+          "quantity": "1200 g",
           "deliveryTime": "N/A",
           "link": "N/A"
         }
@@ -1330,14 +1199,14 @@
       "similarity_score": null
     },
     {
-      "name": "Nidhi Hard Anodised Tawa 27 5 Cm",
-      "image": "https://cdn.dmart.in/images/products/SEP150007879xx7SEP24_5_P.jpg",
+      "name": "Hazel Aluminium Hammered Tope Lid",
+      "image": "https://cdn.dmart.in/images/products/AUG150007050xx2AUG24_5_P.jpg",
       "original_names": {
-        "dmart": "Nidhi Hard Anodised Tawa (Black) - 27.5 cm"
+        "dmart": "HAZEL Aluminium Hammered Tope With Lid - 1300 ml"
       },
       "platforms": {
         "dmart": {
-          "price": 562,
+          "price": 234,
           "quantity": null,
           "deliveryTime": "N/A",
           "link": "N/A"
@@ -1346,14 +1215,14 @@
       "similarity_score": null
     },
     {
-      "name": "Nidhi Omega Non Stick Set Set Of 4",
-      "image": "https://cdn.dmart.in/images/products/SEP150007886xx7SEP24_5_P.jpg",
+      "name": "Hazel Heavy Base Thick Flat Bottom Patila",
+      "image": "https://cdn.dmart.in/images/products/AUG150007059xx2AUG24_5_P.jpg",
       "original_names": {
-        "dmart": "Nidhi Omega Non Stick Set (Golden) - Set Of 4"
+        "dmart": "HAZEL Heavy Base Thick Flat Bottom Patila - 1500 ml"
       },
       "platforms": {
         "dmart": {
-          "price": 1218,
+          "price": 327,
           "quantity": null,
           "deliveryTime": "N/A",
           "link": "N/A"
@@ -1362,1009 +1231,1105 @@
       "similarity_score": null
     },
     {
-      "name": "Nidhi Non Stick Spatter Cookware Set",
-      "image": "https://cdn.dmart.in/images/products/OCT150008064xx24OCT24_5_P.jpg",
+      "name": "Nutri Delite Almond Honey Cornflakes",
+      "image": "https://cdn.dmart.in/images/products/OCT120005845xx11OCT22_5_P.jpg",
       "original_names": {
-        "dmart": "Nidhi Non-Stick Spatter Cookware Set (Green) - 3 Pieces"
+        "dmart": "Nutri Delite Almond & Honey Cornflakes"
       },
       "platforms": {
         "dmart": {
-          "price": 843,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Nidhi Hard Anodised Non Stick Smart Tawa 28 5 Cm",
-      "image": "https://cdn.dmart.in/images/products/OCT150008067xx24OCT24_5_P.jpg",
-      "original_names": {
-        "dmart": "Nidhi Hard Anodised Non-Stick Smart Tawa (Black) - 28.5 cm"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 749,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Nidhi Hard Anodised Non Stick Smart Tawa 31 Cm",
-      "image": "https://cdn.dmart.in/images/products/OCT150008068xx24OCT24_5_P.jpg",
-      "original_names": {
-        "dmart": "Nidhi Hard Anodised Non-Stick Smart Tawa (Black) - 31 cm"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 796,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bergner Samsara 26 Cm Triply Roti Tawa",
-      "image": "https://cdn.dmart.in/images/products/AUG150009754xx12AUG25_5_P.jpg",
-      "original_names": {
-        "dmart": "Bergner Samsara 26 cm Triply Roti Tawa"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 1875,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Nidhi Cookware Hard Anodised Tawa 27 5 Cm",
-      "image": "https://cdn.dmart.in/images/products/SEP150009990xx2SEP25vvG1u_5_P.jpg",
-      "original_names": {
-        "dmart": "Nidhi cookware Hard Anodised Tawa - 27.5 cm"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 703,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Om White Polpat",
-      "image": "https://cdn.dmart.in/images/products/JAN150001597xx11JAN22_5_P.jpg",
-      "original_names": {
-        "dmart": "Om White Polpat"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 185,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Prestige Ceraglide Non Stick Omni Tawa Aluminium",
-      "image": "https://cdn.dmart.in/images/products/OCT150007974xx17OCT24_5_P.jpg",
-      "original_names": {
-        "dmart": "Prestige Ceraglide Non Stick Omni Tawa - Aluminium"
-      },
-      "platforms": {
-        "dmart": {
-          "price": 788,
-          "quantity": null,
-          "deliveryTime": "N/A",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Atta Ghau Peeth Whole Wheat",
-      "image": "https://www.bbassets.com/media/uploads/p/m/126906_10-aashirvaad-atta-whole-wheat.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Aashirvaad Atta/Ghau Peeth - Whole Wheat"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 555.97,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/126906/aashirvaad-atta-whole-wheat-10-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=1&t_s=Atta%252FGhau+Peeth+-+Whole+Wheat"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Chakki Fresh Wheat Atta Ghau Peeth Fortified",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40099240_9-bb-royal-chakki-fresh-wheat-atta-fortified.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Chakki-Fresh-Wheat-Atta/Ghau Peeth - Fortified"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 224,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40099240/bb-royal-chakki-fresh-wheat-atta-fortified-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=3&t_s=Chakki-Fresh-Wheat-Atta%252FGhau+Peeth+-+Fortified"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Fortune Chakki Fresh Atta Ghau Peeth",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40120174_7-fortune-chakki-fresh-atta-100-atta-0-maida.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Fortune Chakki Fresh Atta/Ghau Peeth"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 243.23,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40120174/fortune-chakki-fresh-atta-100-atta-0-maida-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=4&t_s=Chakki+Fresh+Atta%252FGhau+Peeth"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Superior Mp Sharbati Atta Ghau Peeth Fortified",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40189429_4-bb-royal-superior-mp-sharbati-atta-fortified.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Superior-Mp-Sharbati-Atta/Ghau Peeth - Fortified"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 507,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40189429/bb-royal-superior-mp-sharbati-atta-fortified-10-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=5&t_s=Superior-Mp-Sharbati-Atta%252FGhau+Peeth+-+Fortified"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Organic Whole Wheat Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40202316_7-aashirvaad-natures-super-foods-organic-atta.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Aashirvaad Organic Whole Wheat Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 357.9,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40202316/aashirvaad-natures-super-foods-organic-atta-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=6&t_s=Organic+Whole+Wheat+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Atta Multigrains",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40236230_12-aashirvaad-atta-with-multigrains-high-fibre-soft-rotis.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Aashirvaad Atta With Multigrains"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 695.7,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40236230/aashirvaad-atta-with-multigrains-high-fibre-soft-rotis-10-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=7&t_s=Atta+With+Multigrains"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Organic Sharbati Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40079750_16-bb-royal-organic-whole-wheat-atta.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Organic Sharbati Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 249,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40079750/bb-royal-organic-whole-wheat-atta-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=8&t_s=Organic+Sharbati+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Pillsbury Atta Ghau Peeth Chakki Fresh",
-      "image": "https://www.bbassets.com/media/uploads/p/m/124657_10-pillsbury-atta-chakki-fresh.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Pillsbury Atta/Ghau Peeth - Chakki Fresh"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 494.83,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/124657/pillsbury-atta-chakki-fresh-10-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=9&t_s=Atta%252FGhau+Peeth+-+Chakki+Fresh"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Flour Jowar",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40128955_1-bb-royal-flour-jowar.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Flour - Jowar"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 58,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40128955/bb-royal-flour-jowar-1-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=10&t_s=Flour+-+Jowar"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Organic Wheat Flour Chakki Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40009444_6-organic-tattva-wheat-flour-atta.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Organic Tattva Organic Wheat Flour/ Chakki Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 344.98,
-          "quantity": "5 kg",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40009444/organic-tattva-wheat-flour-atta-5-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=11&t_s=Organic+Wheat+Flour%252F+Chakki+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Two Brothers Organic Farms Khapli Flour Emmer Wheat",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40345016_3-two-brothers-organic-farms-khapli-flour-emmer-wheat.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Two Brothers Organic Farms Khapli Flour Emmer Wheat"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 1115,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40345016/two-brothers-organic-farms-khapli-flour-emmer-wheat-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=13&t_s=Khapli+Flour+Emmer+Wheat"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Bajra Flour Bajri Pith",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40018191_8-bb-royal-bajra-flour.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Bajra Flour/Bajri Pith"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 30,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40018191/bb-royal-bajra-flour-500-g-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=14&t_s=Bajra+Flour%252FBajri+Pith"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Jowar Atta Ready Mix",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40293048_2-bhagirathi-jowar-atta-ready-mix.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Bhagirathi Jowar Atta - Ready Mix"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 53,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40293048/bhagirathi-jowar-atta-ready-mix-500-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=15&t_s=Jowar+Atta+-+Ready+Mix"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Pillsbury Atta Ghau Peeth Gold",
-      "image": "https://www.bbassets.com/media/uploads/p/m/290131_6-pillsbury-atta-gold.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Pillsbury Atta/Ghau Peeth - Gold"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 303,
-          "quantity": "5 kg",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/290131/pillsbury-atta-gold-5-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=16&t_s=Atta%252FGhau+Peeth+-+Gold"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Nutrapoorna M P Lokwan Wheat Atta Premium Fresh Rich In Nutrients No Preservatives",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40267444_1-nutrapoorna-mp-lokwan-wheat-atta-premium-fresh-rich-in-nutrients-no-preservatives.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Nutrapoorna M.P Lokwan Wheat Atta - Premium, Fresh, Rich In Nutrients, No Preservatives"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 90,
+          "price": 230,
           "quantity": "1 kg",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40267444/nutrapoorna-mp-lokwan-wheat-atta-premium-fresh-rich-in-nutrients-no-preservatives-1-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=17&t_s=M.P+Lokwan+Wheat+Atta+-+Premium%252C+Fresh%252C+Rich+In+Nutrients%252C+No+Preservatives"
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Organic Sooji Rava",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40072490_15-bb-royal-organic-soojirawa.jpg?tr=w-154,q-80",
+      "name": "Cadbury 5 Star Mini Treat Chocolate Bar",
+      "image": "https://cdn.dmart.in/images/products/JUN120000694xx20JUN24_4_P.jpg",
       "original_names": {
-        "bigbasket": "bb Royal Organic Sooji/Rava"
+        "dmart": "Cadbury 5 Star Mini Treat Chocolate Bar"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 67,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40072490/bb-royal-organic-soojirawa-1-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=18&t_s=Organic+Sooji%252FRava"
+        "dmart": {
+          "price": 105,
+          "quantity": "133.5 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Nature Fresh Sampoorna Chakki Atta Ghau Peeth",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40000095_13-nature-fresh-sampoorna-chakki-atta.jpg?tr=w-154,q-80",
+      "name": "Nestle Kitkat 4 Finger",
+      "image": "https://cdn.dmart.in/images/products/FEB120000712xx27FEB26vvG_5_P.jpg",
       "original_names": {
-        "bigbasket": "Nature Fresh Sampoorna Chakki Atta/Ghau Peeth"
+        "dmart": "Nestle Kitkat 4 Finger"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 510,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40000095/nature-fresh-sampoorna-chakki-atta-10-kg-bag/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=1&t_s=Sampoorna+Chakki+Atta%252FGhau+Peeth"
+        "dmart": {
+          "price": 28,
+          "quantity": "38.5 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Ragi Flour Nachni Peeth Nachni Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/10000473_15-bb-royal-ragi-flournachni-atta.jpg?tr=w-154,q-80",
+      "name": "Kinder Joy Blue",
+      "image": "https://cdn.dmart.in/images/products/OCT120000713xx7OCT25vvG20g_5_P.jpg",
       "original_names": {
-        "bigbasket": "bb Royal Ragi Flour/Nachni Peeth/Nachni Atta"
+        "dmart": "Kinder Joy Blue"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 50,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/10000473/bb-royal-ragi-flournachni-atta-500-g-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=2&t_s=Ragi+Flour%252FNachni+Peeth%252FNachni+Atta"
+        "dmart": {
+          "price": 39,
+          "quantity": "20 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Bajra Atta Loaded Nutrients",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40293047_2-bhagirathi-bajra-atta-loaded-with-nutrients.jpg?tr=w-154,q-80",
+      "name": "Ferrero Rocher",
+      "image": "https://cdn.dmart.in/images/products/JUL120000757xx15JUL25vvG50g_5_P.jpg",
       "original_names": {
-        "bigbasket": "Bhagirathi Bajra Atta - Loaded With Nutrients"
+        "dmart": "Ferrero Rocher - 4 Pieces"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 40,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40293047/bhagirathi-bajra-atta-loaded-with-nutrients-500-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=3&t_s=Bajra+Atta+-+Loaded+With+Nutrients"
+        "dmart": {
+          "price": 155,
+          "quantity": "50 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Aashirvaad Sugar Release Control Atta Ghau Peeth",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40077103_12-aashirvaad-sugar-release-control-atta.jpg?tr=w-154,q-80",
+      "name": "Nestle Kitkat Minis",
+      "image": "https://cdn.dmart.in/images/products/JAN120000763xx27JAN26vvG_5_P.jpg",
       "original_names": {
-        "bigbasket": "Aashirvaad Sugar Release Control Atta/Ghau Peeth"
+        "dmart": "Nestle Kitkat Minis"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 523.8,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40077103/aashirvaad-sugar-release-control-atta-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=4&t_s=Sugar+Release+Control+Atta%252FGhau+Peeth"
+        "dmart": {
+          "price": 112,
+          "quantity": "133.2 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Premium Mp Sharabati Whole Wheat Atta Fine Ground",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40293083_1-bhagirathi-premium-mp-sharabati-whole-wheat-atta-fine-ground.jpg?tr=w-154,q-80",
+      "name": "Nestle Munch Bites",
+      "image": "https://cdn.dmart.in/images/products/FEB120000764xx25FEB26vvG_5_P.jpg",
       "original_names": {
-        "bigbasket": "Bhagirathi Premium MP Sharabati Whole Wheat Atta - Fine Ground"
+        "dmart": "Nestle Munch Bites"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 420,
-          "quantity": "5 kg",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40293083/bhagirathi-premium-mp-sharabati-whole-wheat-atta-fine-ground-5-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=5&t_s=Premium+MP+Sharabati+Whole+Wheat+Atta+-+Fine+Ground"
+        "dmart": {
+          "price": 94,
+          "quantity": "147.9 g",
+          "deliveryTime": "N/A",
+          "link": "N/A"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Nachani Atta Flour Loaded Nutrients",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40293050_2-bhagirathi-nachani-atta-flour-loaded-with-nutrients.jpg?tr=w-154,q-80",
+      "name": "Frubon Hilo High Protein",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/3266f3e5-8057-4411-a55d-70f98993d55a.jpg",
       "original_names": {
-        "bigbasket": "Bhagirathi Nachani Atta Flour - Loaded With Nutrients"
+        "zepto": "Frubon HiLo - High Protein | Low Fat Fresh Milk | Pouch"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 55,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40293050/bhagirathi-nachani-atta-flour-loaded-with-nutrients-500-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=6&t_s=Nachani+Atta+Flour+-+Loaded+With+Nutrients"
+        "zepto": {
+          "price": 29,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/frubon-hilo-high-protein-low-fat-fresh-milk-pouch/pvid/37486928-8fb5-440a-84dc-5cd7fe559647"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Organic Bajra Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40203904_1-bb-royal-organic-bajra-atta.jpg?tr=w-154,q-80",
+      "name": "Amul Gold Full Cream Fresh Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/1c44f728-7e7e-4f59-9248-5569a3b36672.jpeg",
       "original_names": {
-        "bigbasket": "bb Royal Organic - Bajra Atta"
+        "zepto": "Amul Gold Full Cream Fresh Milk | Pouch"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 65.72,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40203904/bb-royal-organic-bajra-atta-1-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=7&t_s=Organic+-+Bajra+Atta"
+        "zepto": {
+          "price": 34,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-gold-full-cream-fresh-milk-pouch/pvid/51d55eac-ca29-4532-9b32-9b7d317f346a"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Multigrain Roasted Thalipeeth Bhajani Flour Loaded Nutrients",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40293068_2-bhagirathi-multigrain-roasted-thalipeeth-bhajani-flour-loaded-with-nutrients.jpg?tr=w-154,q-80",
+      "name": "Amul Taaza Toned Fresh Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/2e8a0f88-1038-4fd3-8093-7085a49b473c.jpeg",
       "original_names": {
-        "bigbasket": "Bhagirathi Multigrain Roasted Thalipeeth Bhajani Flour - Loaded With Nutrients"
+        "zepto": "Amul Taaza Toned Fresh Milk | Pouch"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 125,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40293068/bhagirathi-multigrain-roasted-thalipeeth-bhajani-flour-loaded-with-nutrients-500-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=8&t_s=Multigrain+Roasted+Thalipeeth+Bhajani+Flour+-+Loaded+With+Nutrients"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Maize Flour Makka Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40018183_5-bb-royal-maize-flourmakka-atta.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Maize Flour/Makka Atta"
-      },
-      "platforms": {
-        "bigbasket": {
+        "zepto": {
           "price": 27,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-taaza-toned-fresh-milk-pouch/pvid/9d447ba5-1d35-46e1-bc64-e932135d026f"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Moti Toned Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1500-1500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/74226ac6-b295-4a42-89d3-93ad2d2c14c8.jpeg",
+      "original_names": {
+        "zepto": "Amul Moti Toned Milk | 90 Days Shelf life"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 32,
+          "quantity": "450 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-moti-toned-milk-90-days-shelf-life/pvid/1638f685-befc-478e-95f8-2d92213866e7"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul A2 Buffalo Fresh Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/80a580ec-ba95-436b-90ed-8455d363ca2c.jpeg",
+      "original_names": {
+        "zepto": "Amul A2 Buffalo Fresh Milk | Pouch"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 36,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-a2-buffalo-fresh-milk-pouch/pvid/051dbb52-bcad-48b4-bb9f-63f409a6d38f"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Gold Homogenised Standardised Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/dbeabd64-f310-49c8-9032-e25fc098ea86.jpeg",
+      "original_names": {
+        "zepto": "Amul Gold Homogenised Standardised Milk (Tetra Pack)"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 80,
+          "quantity": "1 pack",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-gold-homogenised-standardised-milk-tetra-pack/pvid/ff393466-31a4-4aba-a51b-a787c39ef57e"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amulya Dairy Whitener",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2400-2400,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/752a6b1d-b89e-43cd-b426-8d0bcb755b1f.jpeg",
+      "original_names": {
+        "zepto": "Amulya Dairy Whitener (Pouch)"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 245,
           "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40018183/bb-royal-maize-flourmakka-atta-500-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=9&t_s=Maize+Flour%252FMakka+Atta"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amulya-dairy-whitener-pouch/pvid/d5456749-53e0-4045-92c4-1d17472dc94a"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Sri Sri Tattva Whole Wheat Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40216166_6-sri-sri-tattva-whole-wheat-atta.jpg?tr=w-154,q-80",
+      "name": "Amul Probiotic Tadka Chaas",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-3000-3000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/37f2596c-d221-4844-8efc-35dc9c9a7283.jpeg",
       "original_names": {
-        "bigbasket": "Sri Sri Tattva Whole Wheat Atta"
+        "zepto": "Amul Probiotic Tadka Chaas"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 74.8,
+        "zepto": {
+          "price": 10,
+          "quantity": "280 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-probiotic-tadka-chaas/pvid/31507666-7f17-46f9-96ae-5015ac968941"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Frubon Masala Buttermilk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1081-1081,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/27aead24-14b5-4cd4-87d5-84dffdb8b3dd.jpg",
+      "original_names": {
+        "zepto": "Frubon Masala Buttermilk"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 9,
+          "quantity": "270 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/frubon-masala-buttermilk/pvid/ba2bbfcf-d6f7-4ead-9b00-67f1300d0ff1"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Saras Plain Buttermilk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1280-1280,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/8f0b3b86-1b38-410c-b396-b63ef51927cc.jpeg",
+      "original_names": {
+        "zepto": "Saras Plain Buttermilk"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 16,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/saras-plain-buttermilk/pvid/84e47812-f00a-4816-9a04-af47db5b4ca6"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "English Oven Premium White Bread",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2250-2250,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/292484af-5b66-436e-80c6-2d9c93c9b823.jpg",
+      "original_names": {
+        "zepto": "English Oven Premium White Bread"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 29,
+          "quantity": "350 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/english-oven-premium-white-bread/pvid/09ff5711-4ad7-4493-8d44-366e4605e9ff"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Britannia Vitarich Sandwich Premium White Bread",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1500-1500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/54ddb77b-8b7d-48f5-acf8-97b352e4e845.jpeg",
+      "original_names": {
+        "zepto": "Britannia Vitarich Sandwich Premium White Bread"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 35,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/britannia-vitarich-sandwich-premium-white-bread/pvid/bf7fb2ec-d7b8-4134-9618-178c695651c4"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Frubon Matka Chhach",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1081-1081,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/3777d7b1-3322-4393-b99f-b8d8c228f13a.jpg",
+      "original_names": {
+        "zepto": "Frubon Matka Chhach"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 13,
+          "quantity": "450 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/frubon-matka-chhach/pvid/96851beb-1627-4887-9c1d-927747fe7ded"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Probiotic Buttermilk Pouch",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-3000-3000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/e51c1fa2-9349-4bf8-bfde-05222dc43b92.jpeg",
+      "original_names": {
+        "zepto": "Amul Probiotic Buttermilk Pouch"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 14,
+          "quantity": "440 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-probiotic-buttermilk-pouch/pvid/25cd4cf4-8e4b-4a1c-905c-aa9bcde93423"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Saras Namkeen Salted Buttermilk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-604-623,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/ec5e99b4-191a-48c5-a074-719c0e864681.jpg",
+      "original_names": {
+        "zepto": "Saras Namkeen Salted Buttermilk"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 13,
+          "quantity": "250 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/saras-namkeen-salted-buttermilk/pvid/c170a3c0-ddc2-43e7-a777-d337a56c3871"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Masti Spiced Buttermilk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/ac60106a-46a2-45d3-8ee4-4ab67aad41cd.jpeg",
+      "original_names": {
+        "zepto": "Amul Masti Spiced Buttermilk"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 15,
+          "quantity": "200 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-masti-spiced-buttermilk/pvid/a8fc94dd-57fc-40a4-a9fe-f21c3a358521"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-3000-3000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/f26b46a4-6a79-4590-bbfe-ae275114931a.jpeg",
+      "original_names": {
+        "zepto": "1 Pack (900 - 1000 Gm)"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 31,
           "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40216166/sri-sri-tattva-whole-wheat-atta-1-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=10&t_s=Whole+Wheat+Atta"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/potato/pvid/81ac330b-546a-45d6-97b1-f5dfc06739db"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Multigrain Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40214912_1-bb-royal-multigrain-atta.jpg?tr=w-154,q-80",
+      "name": "Potato Red",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-910-910,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/75fc3a37-1362-4e86-a34d-dfee5f836706.jpeg",
       "original_names": {
-        "bigbasket": "bb Royal Multigrain Atta"
+        "zepto": "Potato Red"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 525,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40214912/bb-royal-multigrain-atta-10-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=11&t_s=Multigrain+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Organic Barley Flour Jau Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40168531_3-bb-royal-organic-barley-atta.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Organic - Barley Flour/Jau Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 73,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40168531/bb-royal-organic-barley-atta-500-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=12&t_s=Organic+-+Barley+Flour%252FJau+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Singara Flour",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40087376_4-bb-royal-singara-flour-upwas.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Singara Flour"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 58,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40087376/bb-royal-singara-flour-upwas-200-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=13&t_s=Singara+Flour"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Chakki Mp Sehori Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40358277_1-aashirvaad-chakki-mp-sehori-atta.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Aashirvaad Chakki MP Sehori Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 62.1,
+        "zepto": {
+          "price": 35,
           "quantity": "1 kg",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40358277/aashirvaad-chakki-mp-sehori-atta-1-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=14&t_s=Chakki+MP+Sehori+Atta"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/potato-red/pvid/ea0f9a73-edb6-489c-8702-fbf58f380244"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bhagirathi Amaranth Flour Loaded Nutrients",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40293056_2-bhagirathi-amaranth-flour-loaded-with-nutrients.jpg?tr=w-154,q-80",
+      "name": "Lotus Kesar Badam Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1201-1203,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/33feca67-13e2-4748-bf3f-20df7d71f6d7.jpeg",
       "original_names": {
-        "bigbasket": "Bhagirathi Amaranth Flour - Loaded With Nutrients"
+        "zepto": "Lotus Kesar Badam Milk | With Real Bits Of Almonds And Saffron"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 55.25,
+        "zepto": {
+          "price": 48,
+          "quantity": "180 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/lotus-kesar-badam-milk-with-real-bits-of-almonds-and-saffron/pvid/9c23a133-fe4a-48a2-8442-287d61542c4a"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Parampara Soyabean Refined Oil Pouch",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2400-2400,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/9ceb1e41-279c-4e19-ac77-7b2d6bbd3889.jpeg",
+      "original_names": {
+        "zepto": "Parampara Soyabean Refined Oil Pouch"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 126,
+          "quantity": "750 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/parampara-soyabean-refined-oil-pouch/pvid/b122cc1c-1c1b-4337-a8d2-18cd85ec1d93"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Bonn White Bread",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/ff5cc5fe-c4e4-4ba1-842e-ccf499a40408.jpeg",
+      "original_names": {
+        "zepto": "Bonn White Bread"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 28,
+          "quantity": "350 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/bonn-white-bread/pvid/3580574e-a0b2-4680-8aa2-4f7f6b4707cb"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Everyday Dairy Whitener",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1000-1000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/a1ad20ca-6859-4c0f-9955-521982e686bc.jpeg",
+      "original_names": {
+        "zepto": "Nestle EveryDay Dairy Whitener"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 255,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/nestle-everyday-dairy-whitener/pvid/7d1c5e87-3939-4a49-850a-62401f90a693"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Harvest Gold White Bread",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-1146,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/5243dfd6-2cae-4ffa-9fbb-c7361b4d143c.jpg",
+      "original_names": {
+        "zepto": "Harvest Gold White Bread"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 29,
+          "quantity": "300 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/harvest-gold-white-bread/pvid/db37c890-18a3-4dbb-9fed-12cff55a4606"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Epigamia Turbo Chocolate Milkshake",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1500-1500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/e9fd82a4-bd9b-4135-9d45-501a8464776e.jpeg",
+      "original_names": {
+        "zepto": "Epigamia Turbo 30 gm Chocolate Milkshake"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 125,
+          "quantity": "250 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/epigamia-turbo-30-gm-chocolate-milkshake/pvid/ecf9c41d-ee1b-47fd-ad9d-4e64e89a3cb0"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Vadilal Chocolate Chips Ice Cream Cake",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2500-2500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/9856152c-7fa9-4aa8-a395-7f36621b554b.jpeg",
+      "original_names": {
+        "zepto": "Vadilal Chocolate Chips Ice Cream Cake | Soft & Creamy"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 246,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/vadilal-chocolate-chips-ice-cream-cake-soft-creamy/pvid/b540c53b-014e-4202-a36d-51dadf176a43"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Mee Mee Stainless Steel Feeding Bottle Babies",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1500-1500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/e35c777a-c22a-47b0-8667-bf0a6eb78ee1.jpeg",
+      "original_names": {
+        "zepto": "Mee Mee Stainless Steel Feeding Bottle for Babies | BPA-Free, Advanced Anti-Colic Valve"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 579,
           "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40293056/bhagirathi-amaranth-flour-loaded-with-nutrients-200-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=15&t_s=Amaranth+Flour+-+Loaded+With+Nutrients"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/mee-mee-stainless-steel-feeding-bottle-for-babies-bpa-free-advanced-anti-colic-valve/pvid/1708e9ba-f409-41d7-88a2-51bc624a9b1d"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Nutrapoorna Premium Gold Wheat Atta Rich In Nutrients Fresh No Preservatives",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40267438_1-nutrapoorna-premium-gold-wheat-atta-rich-in-nutrients-fresh-no-preservatives.jpg?tr=w-154,q-80",
+      "name": "2 8",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-3000-3000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/245c6534-f795-475d-aa55-56213302eaa1.jpeg",
       "original_names": {
-        "bigbasket": "Nutrapoorna Premium Gold Wheat Atta - Rich In Nutrients, Fresh, No Preservatives"
+        "zepto": "2.8 - 3 kg"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 457.75,
+        "zepto": {
+          "price": 80,
           "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40267438/nutrapoorna-premium-gold-wheat-atta-rich-in-nutrients-fresh-no-preservatives-5-kg-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=16&t_s=Premium+Gold+Wheat+Atta+-+Rich+In+Nutrients%252C+Fresh%252C+No+Preservatives"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/potato/pvid/31de2b4b-556e-4f30-8de7-a9b00b06eb2e"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Organic Maize Flour Makka Atta",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40135848_3-bb-royal-organic-maize-flourmakka-atta.jpg?tr=w-154,q-80",
+      "name": "Hershey S Cookies N Creme Chocolate Bar",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1000-1000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/732b74e6-0206-4ef8-84f7-4d3e81646a33.jpeg",
       "original_names": {
-        "bigbasket": "bb Royal Organic - Maize flour/Makka Atta"
+        "zepto": "Hershey's Cookies 'N' Creme Chocolate Bar"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 51,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40135848/bb-royal-organic-maize-flourmakka-atta-1-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=17&t_s=Organic+-+Maize+flour%252FMakka+Atta"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Organic Rice Flour Tandul Peeth",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40072486_7-bb-royal-organic-rice-flour.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Organic - Rice Flour/Tandul Peeth"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 96,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40072486/bb-royal-organic-rice-flour-1-kg/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=18&t_s=Organic+-+Rice+Flour%252FTandul+Peeth"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Madam Atta Rice",
-      "image": "https://www.bbassets.com/media/uploads/p/m/289936_1-madam-atta-rice.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "Madam Atta - Rice"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 43,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/289936/madam-atta-rice-500-g-pouch/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=19&t_s=Atta+-+Rice"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Sama Bhagar Rice",
-      "image": "https://www.bbassets.com/media/uploads/p/m/40087375_3-bb-royal-samak-ricesamvat-chawal.jpg?tr=w-154,q-80",
-      "original_names": {
-        "bigbasket": "bb Royal Sama/Bhagar Rice"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 25,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "https://www.bigbasket.com/pd/40087375/bb-royal-samak-ricesamvat-chawal-200-g/?nc=cl-prod-list&t_pos_sec=1&t_pos_item=20&t_s=Sama%252FBhagar+Rice"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Water Chestnut Flour Loaded Nutrients",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Bhagirathi Water Chestnut Flour - Loaded With Nutrients"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 99,
-          "quantity": "200 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Aashirvaad Nature S Super Foods Ragi Flour Nachni Peeth",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Aashirvaad Nature's Super Foods - Ragi Flour/Nachni Peeth"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 102.6,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Fortune Premium Sharbati Atta",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Fortune Premium Sharbati Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 285.01,
-          "quantity": "5 kg",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Jiwa 30 Degree Wheat Flour",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Jiwa 30 Degree Wheat Flour"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 270.01,
-          "quantity": "5 kg",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Organic Besan Flour",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "bb Royal Organic - Besan Flour"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 102,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "24 Mantra Organic Besan Flour",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "24 Mantra Organic Besan Flour"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 112.5,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Organic Suji",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Organic Tattva Organic Suji"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 63.41,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Organic Maida",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Organic Tattva Organic Maida"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 55.36,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Organic Bajra Flour",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Organic Tattva Organic Bajra Flour"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 75,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "24 Mantra Organic Organic Sattu",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "24 Mantra Organic Organic Sattu"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 133,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bb Royal Organic Urad Dal Urid Dal Atta",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "bb Royal Organic - Urad Dal/Urid Dal, Atta"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 113,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Organic Tattva Jowar Flour Jower Peeth",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Organic Tattva Jowar Flour/Jower Peeth"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 72.8,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Blue Bird Corn Flour",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Blue Bird Corn Flour"
-      },
-      "platforms": {
-        "bigbasket": {
+        "zepto": {
           "price": 55,
+          "quantity": "38 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/hersheys-cookies-n-creme-chocolate-bar/pvid/e9972c52-f603-43e9-9b72-7b351cf22a92"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Hershey S Kisses Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1024-1024,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/83fcdbcb-225d-4110-8d1e-4a4a1ebc2634.jpeg",
+      "original_names": {
+        "zepto": "Hershey's Kisses Milk | Chocolate Share Bag"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 46,
+          "quantity": "36 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/hersheys-kisses-milk-chocolate-share-bag/pvid/2cf47c3b-3ab3-4e01-a558-99ac70e06ad5"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Horlicks Chocolate Milkshake",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/3bbd8466-3a4b-485b-9cb8-bf0ef495a64f.jpeg",
+      "original_names": {
+        "zepto": "Horlicks Chocolate Milkshake | Tetra Pack"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 28,
+          "quantity": "180 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/horlicks-chocolate-milkshake-tetra-pack/pvid/dcfc992d-b20c-43f8-82f7-b11dc811d347"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Luvlap Anti Colic Slim Regular Neck Essential Baby Feedding Bottle Upto 3M Bpa Free",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-544-625,pr-true,f-auto,,q-40,dpr-2/inventory/product/05efc9e4-6053-43b0-af57-ac114d0423cd-/tmp/20230605-1545011.jpeg",
+      "original_names": {
+        "zepto": "LuvLap Anti-Colic Slim/Regular Neck Essential Baby Feedding Bottle, 250ml, upto 3m+, BPA Free"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 160,
           "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/luvlap-anti-colic-slimregular-neck-essential-baby-feedding-bottle-250ml-upto-3m-bpa-free/pvid/3515dc48-0d21-4f41-bb24-814a028b6e7d"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Rice Flour Tandool Pith",
-      "image": "N/A",
+      "name": "Malkist Double Chocolatey Crunchy Layered Crackers",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/722395a7-8231-4e60-9fc3-cce1cf6c4eb5.jpeg",
       "original_names": {
-        "bigbasket": "bb Royal Rice Flour/Tandool Pith"
+        "zepto": "Malkist Double Chocolatey Crunchy Layered Crackers"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 58.84,
-          "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
+        "zepto": {
+          "price": 45,
+          "quantity": "144 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/malkist-double-chocolatey-crunchy-layered-crackers/pvid/d41bc175-9a14-46ca-a988-07c9ad700e1c"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Corn Flour",
-      "image": "N/A",
+      "name": "Milka Lotus Biscoff Bar",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-3000-3000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/ed3c2cb1-064b-4559-a87d-c603b3675658.jpeg",
       "original_names": {
-        "bigbasket": "bb Royal Corn Flour"
+        "zepto": "Milka Lotus Biscoff Bar"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 37,
-          "quantity": "500 g",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
+        "zepto": {
+          "price": 238,
+          "quantity": "90 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/milka-lotus-biscoff-bar/pvid/599f3df7-e4bf-4d8d-acd9-573076b904fb"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Lo Foods Gluten Smart Multi Millet Atta",
-      "image": "N/A",
+      "name": "Amul Diced Cheese Blend",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2400-2400,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/f913a533-609f-4f95-bdd1-eb28f8a6b49c.jpeg",
       "original_names": {
-        "bigbasket": "Lo Foods Gluten Smart Multi Millet Atta"
+        "zepto": "Amul Diced Cheese Blend"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 224.1,
-          "quantity": "1 kg",
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
-        }
-      },
-      "similarity_score": null
-    },
-    {
-      "name": "Bhagirathi Sattu Atta Loaded Nutrients",
-      "image": "N/A",
-      "original_names": {
-        "bigbasket": "Bhagirathi Sattu Atta - Loaded With Nutrients"
-      },
-      "platforms": {
-        "bigbasket": {
-          "price": 40,
+        "zepto": {
+          "price": 112,
           "quantity": "200 g",
           "deliveryTime": "N/A",
-          "link": "N/A"
+          "link": "https://www.zepto.com/pn/amul-diced-cheese-blend/pvid/65645f83-456f-4dfe-a0dc-bd33e7a82d68"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "Bb Royal Organic Maida",
-      "image": "N/A",
+      "name": "Milka Chips Ahoy Bar",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-3000-3000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/2d88ce4c-d95f-44dd-abd4-e02872bd2730.jpeg",
       "original_names": {
-        "bigbasket": "bb Royal Organic - Maida"
+        "zepto": "Milka Chips Ahoy Bar"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 77,
+        "zepto": {
+          "price": 250,
+          "quantity": "100 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/milka-chips-ahoy-bar/pvid/fe83e377-084e-4ff0-8864-d730c4d697e2"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Luvlap Banana Time 2 In 1 Sipper Soft Silicone Spout Straw Bpa Free 6M",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1000-1000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/fd778dc2-9037-4986-8d75-b2c597f66db6.jpeg",
+      "original_names": {
+        "zepto": "LuvLap Banana Time 2 in 1 Sipper with Soft Silicone Spout & Straw, BPA Free, 6m+"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 247,
           "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/luvlap-banana-time-2-in-1-sipper-with-soft-silicone-spout-straw-bpa-free-6m/pvid/22942bbb-aa86-44c0-9eed-e87289719f2a"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "True Elements Oats Flour",
-      "image": "N/A",
+      "name": "Gopal Namkeen Bhakharvadi",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/11cd3e18-dc01-4b8a-b88f-832803ba84d8.jpeg",
       "original_names": {
-        "bigbasket": "True Elements Oats Flour"
+        "zepto": "Gopal Namkeen Bhakharvadi | Savory Snack"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 520,
+        "zepto": {
+          "price": 45,
+          "quantity": "250 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/gopal-namkeen-bhakharvadi-savory-snack/pvid/273d8738-8756-4960-b692-ed8ffe893034"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Mee Mee Baby Feeding Bottle Silicone Nipple",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1500-1500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/193e294c-8787-47ee-b6c2-f93dd71eaeb8.jpeg",
+      "original_names": {
+        "zepto": "Mee Mee Baby Feeding Bottle with Silicone Nipple | Eazy Flo Technology | Anti-Colic Valve"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 165,
           "quantity": null,
-          "deliveryTime": "12 MINS",
-          "link": "N/A"
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/mee-mee-baby-feeding-bottle-with-silicone-nipple-eazy-flo-technology-anti-colic-valve/pvid/7442aa62-304c-4ebe-a536-9fc1e3694d77"
         }
       },
       "similarity_score": null
     },
     {
-      "name": "24 Mantra Organic Organic Flour Jowar",
-      "image": "N/A",
+      "name": "Luvlap Baby Essential Slim Neck Feeding Bottle Anti Colic Nipple Upto 3 Years Bpa Free",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-4480-6720,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/411ed5a0-daa1-4ab5-8a70-6b411385c00c.jpg",
       "original_names": {
-        "bigbasket": "24 Mantra Organic Organic Flour - Jowar"
+        "zepto": "LuvLap Baby Essential Slim Neck Feeding Bottle, with Anti Colic Nipple, upto 3 Years, BPA Free"
       },
       "platforms": {
-        "bigbasket": {
-          "price": 80.75,
+        "zepto": {
+          "price": 160,
+          "quantity": null,
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/luvlap-baby-essential-slim-neck-feeding-bottle-with-anti-colic-nipple-upto-3-years-bpa-free/pvid/2c2b0cc7-461a-44ce-9c2c-30b2010b03af"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "D Lecta Cheese Slices",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1000-1000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/b6ab3963-52a6-40a4-8c19-b226a13b1058.jpeg",
+      "original_names": {
+        "zepto": "D'lecta Cheese Slices"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 103,
+          "quantity": "200 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/dlecta-cheese-slices/pvid/cda77b2d-7e62-47e9-abac-254e8b9f525e"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Amul Gold Tricone Butterscotch Ice Cream Cone",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1000-1000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/462fb9b4-d7e2-4ab8-8b56-b041fb613c5b.jpeg",
+      "original_names": {
+        "zepto": "Amul Gold TriCone Butterscotch Ice Cream Cone"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 34,
+          "quantity": "120 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/amul-gold-tricone-butterscotch-ice-cream-cone/pvid/5138a29d-e84c-4136-b602-dae0554ac434"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Ambrane Stringz 38 Lite Wired In Earphones In Line Mic Clear Calling 14Mm Dynamic Drivers Boostedbass 3 5Mm Jack Multi Functional Controller Black",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1960-1960,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/0b89e32c-00f9-4c00-b8a0-96698e32d37d.jpeg",
+      "original_names": {
+        "zepto": "Ambrane Stringz 38 Lite Wired in Earphones with in-line Mic for Clear Calling, 14mm Dynamic Drivers for BoostedBass, 3.5mm Jack, Multi-Functional Controller - Black"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 169,
+          "quantity": null,
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/ambrane-stringz-38-lite-wired-in-earphones-with-in-line-mic-for-clear-calling-14mm-dynamic-drivers-for-boostedbass-35mm-jack-multi-functional-controller-black/pvid/2e818a64-ae4b-4bbc-b23c-7696e1f1eb5f"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Maggi 2 Minute Instant Noodles",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/15f261fb-9f50-4c3c-9501-837cc38a0e4b.jpeg",
+      "original_names": {
+        "zepto": "MAGGI 2-Minute Instant Noodles | Masala Noodles | Made With Quality Spices"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 27,
+          "quantity": "1 pack",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/maggi-2-minute-instant-noodles-masala-noodles-made-with-quality-spices/pvid/2d4d502f-6c7d-4f6f-b9ae-445de448ef2d"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Bikaji Kuch Kuch All In One",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/ff50bda0-2a4e-4c8e-b1a8-9e56f4d706e6.jpeg",
+      "original_names": {
+        "zepto": "Bikaji Kuch-Kuch All In One | Mixed Namkeen"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 89,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/bikaji-kuch-kuch-all-in-one-mixed-namkeen/pvid/0e8c83f9-d2bc-41f4-8531-c5f5ae9dd2d1"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Fortune Rozana Gold Basmati Rice",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1100-1100,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/2c1c1957-149a-4e68-bf10-a055f2b0fd72.jpeg",
+      "original_names": {
+        "zepto": "Fortune Rozana Gold Basmati Rice"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 87,
+          "quantity": "1 kg",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/fortune-rozana-gold-basmati-rice/pvid/18e5789f-aab8-4281-8db4-380bb50a1c29"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Cadbury Dairy Milk Minis",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1100-1100,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/17a39682-0037-4e23-a1f2-b21fdc8e9d9a.jpeg",
+      "original_names": {
+        "zepto": "Cadbury Dairy Milk Minis | Home Treats Chocolate"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 138,
+          "quantity": "20 x 7 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-minis-home-treats-chocolate/pvid/b13e93c9-9e50-4513-af13-b7aefb5d3732"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Aashirvaad Atta Shudh Chakki Atta No Maida",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2509-2509,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/117dfd10-1382-4f8e-975a-5dcd96242937.jpeg",
+      "original_names": {
+        "zepto": "Aashirvaad Atta - Shudh Chakki Atta, No Maida | Pouch"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 230,
+          "quantity": "5 kg",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/aashirvaad-atta-shudh-chakki-atta-no-maida-pouch/pvid/e885d51e-6d37-47dd-9b02-42812c8f755e"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Lactogen Pro 2 Powder",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/66b84c28-b3c6-4fb2-b18c-bcb45cb8db49.jpeg",
+      "original_names": {
+        "zepto": "Nestle Lactogen Pro 2 Powder | Follow-Up Formula With Probiotic | After 6 Months Up To 12 Months"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 440,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/nestle-lactogen-pro-2-powder-follow-up-formula-with-probiotic-after-6-months-up-to-12-months/pvid/7009bc6e-fa36-49cc-a55c-a9b3bdb38e3b"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Tata Sampann Kala Chana",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/09c9b2e4-f355-4b95-b5c0-36db86a03c98.jpeg",
+      "original_names": {
+        "zepto": "Tata Sampann Kala Chana"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 56,
           "quantity": "500 g",
           "deliveryTime": "N/A",
-          "link": "N/A"
+          "link": "https://www.zepto.com/pn/tata-sampann-kala-chana/pvid/07341e4a-b88e-4adf-91cf-9ba309683485"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Milkmaid Partly Skimmed Sweetened Condensed Milk",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/fc594ccc-0ecf-4456-8273-ca2b89c34c72.jpeg",
+      "original_names": {
+        "zepto": "Nestle Milkmaid Partly Skimmed Sweetened Condensed Milk | Smooth & Delicious"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 132,
+          "quantity": "380 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/nestle-milkmaid-partly-skimmed-sweetened-condensed-milk-smooth-delicious/pvid/20a0dc3e-0ca1-4139-ab6a-6715c86484c6"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Cadbury Dairy Milk Milkinis Duo Pack Chocolate Bar",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1100-1100,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/1ae532bd-66c0-4968-8cd8-4633a7024aa5.jpeg",
+      "original_names": {
+        "zepto": "Cadbury Dairy Milk Milkinis Duo Pack Chocolate Bar"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 35,
+          "quantity": "34 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-milkinis-duo-pack-chocolate-bar/pvid/8585436b-0b4c-4eb1-a462-e97b90c5782c"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Similac Stage 1 Infant Formula",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-5000-5000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/641b532a-453b-4a6b-8572-1843691d6763.png",
+      "original_names": {
+        "zepto": "Similac Stage 1 Infant Formula | Up to 6 months"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 550,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/similac-stage-1-infant-formula-up-to-6-months/pvid/88b65d64-451b-4389-9db9-bc006757bb46"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Yoga Bar Breakfast Protein Bar Apricot Fig Fibre Protein Rich Granola Bar",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-500-500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/ca1d7a4a-2b88-4142-8edc-4ffa5d33ce2f.jpeg",
+      "original_names": {
+        "zepto": "Yoga Bar Breakfast Protein Bar Apricot Fig, Fibre & Protein Rich Granola Bar"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 26,
+          "quantity": "45 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/yoga-bar-breakfast-protein-bar-apricot-fig-fibre-protein-rich-granola-bar/pvid/db61cff9-1187-49af-9371-02d906c596c8"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Cadbury Dairy Milk Milkinis Chocolate Bar",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/5e46e20c-fc11-4b90-8e7c-e6ffac7f13dc.jpeg",
+      "original_names": {
+        "zepto": "Cadbury Dairy Milk Milkinis Chocolate Bar"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 18,
+          "quantity": "17 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/cadbury-dairy-milk-milkinis-chocolate-bar/pvid/dabb52be-7e87-4cfd-82a8-c463dd662bd7"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Nestle Lactogen Pro 4 Powder",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-2000-2000,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/39a95d5c-34e9-42c8-b3df-c9a22d9dfe22.jpeg",
+      "original_names": {
+        "zepto": "Nestle Lactogen Pro 4 Powder | Follow-Up Formula With Iron After 18 Months Up To 24 Months"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 435,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/nestle-lactogen-pro-4-powder-follow-up-formula-with-iron-after-18-months-up-to-24-months/pvid/0a04f754-6f81-4e22-8307-c693e9327d35"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Saras Curd Cup",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-666-595,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/d192740d-0f60-4578-a2e0-6f85659503fe.jpg",
+      "original_names": {
+        "zepto": "Saras Curd Cup"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 16,
+          "quantity": "200 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/saras-curd-cup/pvid/33f2e92c-d4cb-41e5-8ed6-280dfe8f6a15"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Saras Ghee Tetra Pack",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1500-1500,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/b6f136d3-f48d-4580-8c06-17d0970a93c7.jpg",
+      "original_names": {
+        "zepto": "Saras Ghee Tetra Pack"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 270,
+          "quantity": "500 ml",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/saras-ghee-tetra-pack/pvid/56320d80-1b76-4bd2-8cea-8afb73f0c291"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Parle G Original Gluco Biscuits",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/9fec31fb-5a51-41ed-a1d6-e1f7d4fd3188.jpeg",
+      "original_names": {
+        "zepto": "Parle-G Original Gluco Biscuits"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 77,
+          "quantity": "800 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/parle-g-original-gluco-biscuits/pvid/a8593217-5b45-4c84-816e-2efe03e38b3e"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Tata Sampann Unpolished Kabuli Chana",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/21495e06-e6f4-496d-b686-c7f6f832edca.jpeg",
+      "original_names": {
+        "zepto": "Tata Sampann Unpolished Kabuli Chana | Medium Size"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 77,
+          "quantity": "500 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/tata-sampann-unpolished-kabuli-chana-medium-size/pvid/88b07c97-61d7-406e-9f14-c2bdb148f29d"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Harvest Gold Pure Atta Bread",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/55819f6c-9d91-4239-a62d-29c5457c0181.jpeg",
+      "original_names": {
+        "zepto": "Harvest Gold - Pure Atta Bread (Zero Maida)"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 55,
+          "quantity": "450 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/harvest-gold-pure-atta-bread-zero-maida/pvid/f3d4a3f0-53df-40ec-a23a-9cefdf9d52af"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Bikaji Bikaneri Bhujia",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1200-1200,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/6cffdc32-159d-4837-91d2-0e2a74bd6eae.jpeg",
+      "original_names": {
+        "zepto": "Bikaji Bikaneri Bhujia | Crunchy Savory Snack"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 89,
+          "quantity": "400 g",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/bikaji-bikaneri-bhujia-crunchy-savory-snack/pvid/e2bccb76-89cd-476f-8a01-6345a4cea506"
+        }
+      },
+      "similarity_score": null
+    },
+    {
+      "name": "Frubon Yummy Dahi Pouch",
+      "image": "https://cdn.zeptonow.com/production/tr:w-403,ar-1080-1080,pr-true,f-auto,,q-40,dpr-2/cms/product_variant/a1969e49-5b00-4475-a803-35a51829378d.jpeg",
+      "original_names": {
+        "zepto": "Frubon Yummy Dahi Pouch"
+      },
+      "platforms": {
+        "zepto": {
+          "price": 67,
+          "quantity": "1 kg",
+          "deliveryTime": "N/A",
+          "link": "https://www.zepto.com/pn/frubon-yummy-dahi-pouch/pvid/20ea90c2-72ed-4e39-b271-cf99f026ca63"
         }
       },
       "similarity_score": null

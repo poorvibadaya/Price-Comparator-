@@ -10,4 +10,4 @@
 //   - Deploy your Flask backend to a cloud provider (Railway, Render, EC2, etc.)
 //   - Replace with your public URL: 'https://api.groease.in'
 
-export const API_BASE_URL = 'http://192.168.1.6:8090';
+export const API_BASE_URL = 'http://192.168.31.201:8080';

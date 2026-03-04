@@ -98,7 +98,7 @@ def load_config():
         return {}
 
 # Load .env for Geoapify API key (optional)
-load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
+load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
 
 # Load config on startup
 CONFIG = load_config()

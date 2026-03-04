@@ -41,26 +41,35 @@ export function LocationModal({ visible, onSelect, onClose }: LocationModalProps
 
   // Debounced autocomplete
   useEffect(() => {
+    console.log(`[LocationModal] Input query changed to: "${query}"`);
     if (!query.trim()) {
       setSuggestions([]);
       return;
     }
 
     const delay = setTimeout(() => {
+      console.log(`[LocationModal] Triggering autocomplete fetch for exactly: "${query}"`);
       setLoading(true);
       fetchAutocomplete(query)
-        .then(setSuggestions)
+        .then(results => {
+          console.log(`[LocationModal] Autocomplete returned ${results.length} suggestions.`);
+          setSuggestions(results);
+        })
         .catch(err => {
-          console.warn('[LocationModal] Autocomplete error:', err);
+          console.warn('[LocationModal] Autocomplete error hit in Modal catch block:', err);
           setSuggestions([]);
         })
-        .finally(() => setLoading(false));
+        .finally(() => {
+          console.log('[LocationModal] Autocomplete finally block, stopping loading indicator.');
+          setLoading(false);
+        });
     }, 400);
 
     return () => clearTimeout(delay);
   }, [query]);
 
   const handleSelect = (result: GeoapifyResult) => {
+    console.log('[LocationModal] User selected Geoapify suggestion:', result);
     const lat = result.lat ?? 0;
     const lon = result.lon ?? 0;
     const address =
@@ -69,15 +78,18 @@ export function LocationModal({ visible, onSelect, onClose }: LocationModalProps
       `${result.city || ''}, ${result.state || ''}`.trim() ||
       'Unknown';
 
+    console.log(`[LocationModal] Passing selected location to parent - Address: "${address}", Lat: ${lat}, Lng: ${lon}`);
     onSelect({ address, lat, lng: lon, city: result.city, state: result.state, country: result.country });
     setQuery('');
     setSuggestions([]);
   };
 
   const handleUseCurrentLocation = async () => {
+    console.log('[LocationModal] handleUseCurrentLocation (GPS) button pressed');
     setGpsLoading(true);
     try {
       const loc = await LocationService.getCurrentLocation();
+      console.log('[LocationModal] Successfully retrieved LocationData from LocationService:', loc);
       onSelect({
         address: `${loc.city}, ${loc.state}`,
         lat: loc.coordinates?.lat ?? 0,
@@ -89,8 +101,9 @@ export function LocationModal({ visible, onSelect, onClose }: LocationModalProps
       setQuery('');
       setSuggestions([]);
     } catch (e) {
-      console.warn('[LocationModal] GPS error:', e);
+      console.warn('[LocationModal] Final GPS error trapped in Modal catch block:', e);
     } finally {
+      console.log('[LocationModal] GPS loading indicator turned off');
       setGpsLoading(false);
     }
   };

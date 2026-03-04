@@ -7,7 +7,7 @@ from datetime import datetime
 from playwright.sync_api import sync_playwright
 
 # Storage folder for product data
-STORAGE_FOLDER = "/var/lib/product-compare/product_data"
+STORAGE_FOLDER = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "product_data")
 os.makedirs(STORAGE_FOLDER, exist_ok=True)
 
 def search_dmart_api(query, page=1, size=40, store_id=10706):
