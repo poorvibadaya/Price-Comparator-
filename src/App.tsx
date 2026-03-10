@@ -7,9 +7,11 @@ import { Footer } from './components/Footer';
 import { LocationService } from './services/locationService';
 import { ProductService } from './services/productService';
 import { LocationData, ComparisonFilters, MatchedProduct, Platform } from './types/product';
-import { Loader2, Sparkles, ShoppingCart, Clock, Banknote, Package, Search, GitCompare } from 'lucide-react';
+import { Loader2, Sparkles, ShoppingCart, Clock, Banknote, Package, Search, GitCompare, SlidersHorizontal } from 'lucide-react';
 import { Badge } from './components/ui/badge';
 import { Button } from './components/ui/button';
+
+type SortOption = 'best-match' | 'price-low' | 'price-high';
 import groeaseLogo from './images/groease_logo_crop.jpg';
 import groeaseCenter from './images/groease.jpeg';
 import groeaseBanner from './images/Groease_banner.png';
@@ -34,7 +36,10 @@ function App() {
   const [searchProgress, setSearchProgress] = useState(0);
   const [showLocationPopup, setShowLocationPopup] = useState(true); // Show popup by default
   const [bannerIndex, setBannerIndex] = useState(0);
-  
+  const [sortBy, setSortBy] = useState<SortOption>('best-match');
+  const [minPrice, setMinPrice] = useState('');
+  const [maxPrice, setMaxPrice] = useState('');
+
   // Default platforms to search (no filters panel, so hardcoded)
   const defaultPlatforms: Platform[] = ['zepto', 'blinkit', 'swiggy-instamart', 'bigbasket', 'dmart'];
 
@@ -157,9 +162,14 @@ function App() {
     }
   };
 
-  // Show all matched products - don't filter by quantity matching
-  // Users can see all products even if quantities differ (useful for comparison)
-  const filteredProducts = products;
+  // Apply client-side price filter
+  const filteredProducts = products.filter((p) => {
+    const prices = Object.values(p.platforms || {}).map((pd) => pd.price);
+    const lowestPrice = prices.length > 0 ? Math.min(...prices) : 0;
+    if (minPrice && lowestPrice < Number(minPrice)) return false;
+    if (maxPrice && lowestPrice > Number(maxPrice)) return false;
+    return true;
+  });
 
   if (loading && !location) {
     return (
@@ -179,7 +189,10 @@ function App() {
     <div className="min-h-screen flex flex-col bg-gradient-to-br from-white via-blue-50/30 to-white">
       {/* Location Popup - Must render first */}
       {showLocationPopup && (
-        <LocationPopup onClose={handleLocationSet} />
+        <LocationPopup
+          onClose={handleLocationSet}
+          onDismiss={location ? () => setShowLocationPopup(false) : undefined}
+        />
       )}
 
       {/* GROEASE Header with Logo */}
@@ -224,10 +237,70 @@ function App() {
         )}
         
         {!loading && searchQuery && (
-          <div className="mb-6">
-            <p className="text-blue-700 text-sm">
-              Found <span className="font-semibold text-blue-900">{products.length}</span> product{products.length !== 1 ? 's' : ''} for <span className="font-medium">"{searchQuery}"</span>
-            </p>
+          <div className="mb-4">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-3">
+              <p className="text-blue-700 text-sm">
+                Found <span className="font-semibold text-blue-900">{filteredProducts.length}</span>
+                {products.length !== filteredProducts.length && (
+                  <span className="text-blue-500"> (of {products.length})</span>
+                )}
+                {' '}product{filteredProducts.length !== 1 ? 's' : ''} for <span className="font-medium">"{searchQuery}"</span>
+              </p>
+            </div>
+
+            {/* Filter bar */}
+            {products.length > 0 && (
+              <div className="flex flex-wrap items-center gap-3 p-3 bg-blue-50/60 border border-blue-100 rounded-lg">
+                <div className="flex items-center gap-1.5 text-blue-700 text-xs font-semibold">
+                  <SlidersHorizontal className="h-3.5 w-3.5" />
+                  <span>Filters</span>
+                </div>
+
+                {/* Sort */}
+                <div className="flex items-center gap-2">
+                  <label className="text-xs text-gray-600 font-medium whitespace-nowrap">Sort by:</label>
+                  <select
+                    value={sortBy}
+                    onChange={(e) => setSortBy(e.target.value as SortOption)}
+                    className="text-xs border border-blue-200 rounded-md px-2 py-1.5 bg-white text-gray-800 focus:outline-none focus:border-blue-400"
+                  >
+                    <option value="best-match">Best Match</option>
+                    <option value="price-low">Price: Low to High</option>
+                    <option value="price-high">Price: High to Low</option>
+                  </select>
+                </div>
+
+                {/* Price range */}
+                <div className="flex items-center gap-1.5">
+                  <label className="text-xs text-gray-600 font-medium whitespace-nowrap">Price ₹:</label>
+                  <input
+                    type="number"
+                    placeholder="Min"
+                    value={minPrice}
+                    onChange={(e) => setMinPrice(e.target.value)}
+                    className="w-16 text-xs border border-blue-200 rounded-md px-2 py-1.5 bg-white focus:outline-none focus:border-blue-400"
+                  />
+                  <span className="text-gray-400 text-xs">–</span>
+                  <input
+                    type="number"
+                    placeholder="Max"
+                    value={maxPrice}
+                    onChange={(e) => setMaxPrice(e.target.value)}
+                    className="w-16 text-xs border border-blue-200 rounded-md px-2 py-1.5 bg-white focus:outline-none focus:border-blue-400"
+                  />
+                </div>
+
+                {/* Clear filters */}
+                {(minPrice || maxPrice || sortBy !== 'best-match') && (
+                  <button
+                    onClick={() => { setMinPrice(''); setMaxPrice(''); setSortBy('best-match'); }}
+                    className="text-xs text-blue-600 hover:text-blue-800 underline"
+                  >
+                    Clear
+                  </button>
+                )}
+              </div>
+            )}
           </div>
         )}
 
@@ -418,27 +491,28 @@ function App() {
         ) : !loading ? (
           <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-4">
             {filteredProducts
+              .slice()
               .sort((a, b) => {
-                // First sort by number of platform matches (descending)
+                // Get lowest price across platforms for each product
+                const pricesA = Object.values(a.platforms || {}).map((pd) => pd.price);
+                const pricesB = Object.values(b.platforms || {}).map((pd) => pd.price);
+                const lowestA = pricesA.length > 0 ? Math.min(...pricesA) : Infinity;
+                const lowestB = pricesB.length > 0 ? Math.min(...pricesB) : Infinity;
+
+                if (sortBy === 'price-low') return lowestA - lowestB;
+                if (sortBy === 'price-high') return lowestB - lowestA;
+
+                // Default: best-match — sort by platform match count desc, then alphabetically
                 const matchCountA = Object.keys(a.platforms || {}).length;
                 const matchCountB = Object.keys(b.platforms || {}).length;
-                
-                if (matchCountA !== matchCountB) {
-                  return matchCountB - matchCountA; // Descending order (3 matches before 2 matches)
-                }
-                
-                // If same number of matches, sort alphabetically
-                // Custom sort: letters before numbers
+                if (matchCountA !== matchCountB) return matchCountB - matchCountA;
+
                 const nameA = a.name;
                 const nameB = b.name;
                 const startsWithLetterA = /^[a-zA-Z]/.test(nameA);
                 const startsWithLetterB = /^[a-zA-Z]/.test(nameB);
-                
-                // If one starts with letter and other with number, letter comes first
                 if (startsWithLetterA && !startsWithLetterB) return -1;
                 if (!startsWithLetterA && startsWithLetterB) return 1;
-                
-                // Both start with same type (letter or number), sort normally
                 return nameA.localeCompare(nameB, undefined, { sensitivity: 'base', numeric: true });
               })
               .map((matchedProduct) => (

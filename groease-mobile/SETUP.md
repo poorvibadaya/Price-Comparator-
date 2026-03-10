@@ -1,7 +1,11 @@
 # Groease Mobile — React Native + Expo
 
-This folder is a **fully self-contained** React Native + Expo app.
-It uses the same Flask backend as the web app — the mobile app is just a client.
+This folder contains the **Expo Mobile Application** for the Price-Comparator project. It is strictly a client and relies on the Python Flask backend to function.
+
+## Overall Project Context
+- **`/` (Root Folder)**: React Web Frontend
+- **`/backend/`**: Python Flask API & Scrapers (`http://localhost:8080`)
+- **`/groease-mobile/`** (This folder): React Native Expo Mobile App
 
 ---
 

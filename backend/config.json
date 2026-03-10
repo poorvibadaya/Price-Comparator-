@@ -1,29 +1,48 @@
 {
     "search_debug": true,
-    "platform": {
+    "tiers": {
+        "tier1_quickcompare": true,
+        "tier2_scrapers": true
+    },
+    "race": {
+        "min_platforms_required": 2,
+        "tier1_timeout_seconds": 5,
+        "tier2_timeout_seconds": 10,
+        "early_return_grace_seconds": 2
+    },
+    "cache": {
+        "l1_max_size": 500,
+        "l1_ttl_seconds": 120,
+        "l2_redis_ttl_seconds": 600,
+        "l2_redis_url": "redis://localhost:6379"
+    },
+    "platforms": {
         "zepto": {
-            "scrape": true,
+            "enabled": true,
             "headless": true
         },
         "blinkit": {
-            "scrape": true,
+            "enabled": true,
             "headless": true
         },
         "swiggy-instamart": {
-            "scrape": false,
+            "enabled": false,
             "headless": true
         },
         "bigbasket": {
-            "scrape": true,
+            "enabled": true,
             "headless": true
         },
         "dmart": {
-            "scrape": true,
+            "enabled": true,
             "headless": true
         }
     },
+    "browser_pool": {
+        "max_contexts": 5
+    },
     "matching": {
-        "similarity_threshold": 0.80,
+        "similarity_threshold": 0.8,
         "strict_matching": true,
         "quantity_tolerance_ratio": 1.1,
         "quantity_tolerance_absolute": 0.1,
